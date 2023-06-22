@@ -1,0 +1,976 @@
+Year,Name,DOB,Sex,Category,Motivation,Birth Country,Affiliation,Affiliation Place
+2021,Benjamin List,11/1/1968,Male ,Chemistry,for the development of asymmetric organocatalysis,Germany,Max-Planck-Institute for Kohlenforschung,"Malheim an der Ruhr, Germany"
+2021,David W.C. MacMillan,3/16/1968,Male ,Chemistry,for the development of asymmetric organocatalysis,United Kingdom,Princeton University,"Princeton, NJ, USA"
+2020,Emmanuelle Charpentier,11/12/1968,Female,Chemistry,for the development of a method for genome editing,France,Max-Planck-Institute,"Berlin, Germany"
+2020,Jennifer A. Doudna,2/19/1964,Female,Chemistry,for the development of a method for genome editing,United States of America,University of California,"Berkeley, CA, United States of America"
+2019,Akira Yoshino,1/30/1948,Male,Chemistry,for the development of lithium-ion batteries,Japan,Asahi Kasei Corporation,"Tokyo, Japan"
+2019,John Goodenough,7/25/1922,Male,Chemistry,for the development of lithium-ion batteries,Germany,University of Texas,"Austin TX, United States of America"
+2019,M. Stanley Whittingham,12/22/1941,Male,Chemistry,for the development of lithium-ion batteries,United Kingdom,Binghamton University State University of New York,"New York, NY, United States of America"
+2018,Frances H. Arnold,7/25/1956,Female,Chemistry,for the directed evolution of enzymes,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+2018,George P. Smith,10/3/1941,Male,Chemistry,for the phage display of peptides and antibodies,United States of America,University of Missouri,"Columbia, United States of America"
+2018,Sir Gregory P. Winter,4/14/1951,Male,Chemistry,for the phage display of peptides and antibodies,United Kingdom,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+2017,Jacques Dubochet,8/6/1942,Male,Chemistry,for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution,Switzerland,University of Lausanne,"Lausanne, Switzerland"
+2017,Joachim Frank,12/9/1940,Male,Chemistry,for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution,Germany,Columbia University,"New York, NY, United States of America"
+2017,Richard Henderson,7/19/1945,Male,Chemistry,for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution,United Kingdom,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+2016,Bernard L. Feringa,5/18/1951,Male,Chemistry, for the design and synthesis of molecular machines ,Netherlands,University of Groningen,"Groningen, Netherlands"
+2016,Jean-Pierre Sauvage,10/21/1944,Male,Chemistry, for the design and synthesis of molecular machines ,France,University of Strasbourg,"Strasbourg, France"
+2016,Sir J. Fraser Stoddart,5/24/1942,Male,Chemistry, for the design and synthesis of molecular machines ,United Kingdom,Northwestern University,"Evanston, IL, United States of America"
+2015,Aziz Sancar,8/9/1946,Male,Chemistry, for mechanistic studies of DNA repair ,Turkey,University of North Carolina,"Chapel Hill, NC, United States of America"
+2015,Paul Modrich,6/13/1946,Male,Chemistry, for mechanistic studies of DNA repair ,United States of America,Howard Hughes Medical Institute,"Durham, NC, United States of America"
+2015,Tomas Lindahl,1/28/1938,Male,Chemistry, for mechanistic studies of DNA repair ,Sweden,Francis Crick Institute,"Hertfordshire, United Kingdom"
+2014,Eric Betzig,1/13/1960,Male,Chemistry, for the development of super-resolved fluorescence microscopy ,United States of America,"Janelia Research Campus, Howard Hughes Medical Institute","Ashburn, VA, United States of America"
+2014,Stefan W. Hell,12/23/1962,Male,Chemistry, for the development of super-resolved fluorescence microscopy ,Romania,Max-Planck-Institut,"Gâˆšâˆ‚ttingen, Germany"
+2014,William E. Moerner,6/24/1953,Male,Chemistry, for the development of super-resolved fluorescence microscopy ,United States of America,Stanford University,"Stanford, CA, United States of America"
+2013,Arieh Warshel,11/20/1940,Male,Chemistry, for the development of multiscale models for complex chemical systems ,Israel,University of Southern California,"Los Angeles, CA, United States of America"
+2013,Martin Karplus,3/15/1930,Male,Chemistry, for the development of multiscale models for complex chemical systems ,Austria,UniversitâˆšÂ© de Strasbourg,"Strasbourg, France"
+2013,Michael Levitt,9/5/1947,Male,Chemistry, for the development of multiscale models for complex chemical systems ,South Africa,Stanford University,"Stanford, CA, United States of America"
+2012,Brian K. Kobilka,5/30/1955,Male,Chemistry, for studies of G-protein-coupled receptors ,United States of America,Stanford University,"Stanford, CA, United States of America"
+2012,Robert J. Lefkowitz,4/15/1943,Male,Chemistry, for studies of G-protein-coupled receptors ,United States of America,Howard Hughes Medical Institute,"Chevy Chase, United States of America"
+2011,Dan Shechtman,1/24/1941,Male,Chemistry, for the discovery of quasicrystals ,Israel,Technion - Israel Institute of Technology,"Haifa, Israel"
+2010,Akira Suzuki,12/9/1930,Male,Chemistry, for palladium-catalyzed cross couplings in organic synthesis ,Japan,Hokkaido University,"Sapporo, Japan"
+2010,Ei-ichi Negishi,7/14/1935,Male,Chemistry, for palladium-catalyzed cross couplings in organic synthesis ,China,Purdue University,"West Lafayette, IN, United States of America"
+2010,Richard F. Heck,8/15/1931,Male,Chemistry, for palladium-catalyzed cross couplings in organic synthesis ,United States of America,University of Delaware, United States of America
+2009,Ada E. Yonath,6/22/1939,Female,Chemistry, for studies of the structure and function of the ribosome ,Israel,Weizmann Institute of Science,"Rehovot, Israel"
+2009,Thomas A. Steitz,8/23/1940,Male,Chemistry, for studies of the structure and function of the ribosome ,United States of America,Yale University,"New Haven, CT, United States of America"
+2009,Venkatraman Ramakrishnan,2/7/1952,Male,Chemistry, for studies of the structure and function of the ribosome ,India,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+2008,Martin Chalfie,1/15/1947,Male,Chemistry," for the discovery and development of the green fluorescent protein, GFP ",United States of America,Columbia University,"New York, NY, United States of America"
+2008,Osamu Shimomura,8/27/1928,Male,Chemistry," for the discovery and development of the green fluorescent protein, GFP ",Japan,Marine Biological Laboratory (MBL),"Woods Hole, MA, United States of America"
+2008,Roger Y. Tsien,1/2/1952,Male,Chemistry," for the discovery and development of the green fluorescent protein, GFP ",United States of America,University of California,"San Diego, CA, United States of America"
+2007,Gerhard Ertl,10/10/1936,Male,Chemistry, for his studies of chemical processes on solid surfaces ,Germany,Fritz-Haber-Institut der Max-Planck-Gesellschaft,"Berlin, Germany"
+2006,Roger D. Kornberg,4/24/1947,Male,Chemistry, for his studies of the molecular basis of eukaryotic transcription ,United States of America,Stanford University,"Stanford, CA, United States of America"
+2005,Richard R. Schrock,4/1/1945,Male,Chemistry, for the development of the metathesis method in organic synthesis ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+2005,Robert H. Grubbs,2/27/1942,Male,Chemistry, for the development of the metathesis method in organic synthesis ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+2005,Yves Chauvin,10/10/1930,Male,Chemistry, for the development of the metathesis method in organic synthesis ,Belgium,Institut FranâˆšÃŸais du PâˆšÂ©trole,"Rueil-Malmaison, France"
+2004,Aaron Ciechanover,1/10/1947,Male,Chemistry, for the discovery of ubiquitin-mediated protein degradation ,Israel,Technion - Israel Institute of Technology,"Haifa, Israel"
+2004,Avram Hershko,12/31/1937,Male,Chemistry, for the discovery of ubiquitin-mediated protein degradation ,Hungary,Technion - Israel Institute of Technology,"Haifa, Israel"
+2004,Irwin Rose,7/16/1926,Male,Chemistry, for the discovery of ubiquitin-mediated protein degradation ,United States of America,University of California,"Irvine, CA, United States of America"
+2003,Peter Agre,1/30/1949,Male,Chemistry, for discoveries concerning channels in cell membranes; for the discovery of water channels ,United States of America,Johns Hopkins University,"Baltimore, MD, United States of America"
+2003,Roderick MacKinnon,2/19/1956,Male,Chemistry, for discoveries concerning channels in cell membranes; for structural and mechanistic studies of ion channels ,United States of America,Rockefeller University,"New York, NY, United States of America"
+2002,John B. Fenn,6/15/1917,Male,Chemistry, for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules ,United States of America,Virginia Commonwealth University,"Richmond, VA, United States of America"
+2002,Koichi Tanaka,3/8/1959,Male,Chemistry, for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules ,Japan,Shimadzu Corp.,"Kyoto, Japan"
+2002,Kurt WâˆšÂºthrich,4/10/1938,Male,Chemistry, for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution ,Switzerland,Eidgenâˆšâˆ‚ssische Technische Hochschule (Swiss Federal Institute of Technology),"Zurich, Switzerland"
+2001,K. Barry Sharpless,4/28/1941,Male,Chemistry, for his work on chirally catalysed oxidation reactions ,United States of America,The Scripps Research Institute,"La Jolla, CA, United States of America"
+2001,Ryoji Noyori,3/9/1938,Male,Chemistry, for their work on chirally catalysed hydrogenation reactions ,Japan,Nagoya University,"Nagoya, Japan"
+2001,William S. Knowles,1/6/1917,Male,Chemistry, for their work on chirally catalysed hydrogenation reactions ,United States of America,,"St. Louis, MO, United States of America"
+2000,Alan G. MacDiarmid,4/14/1927,Male,Chemistry, for the discovery and development of conductive polymers ,New Zealand,University of Pennsylvania,"Philadelphia, PA, United States of America"
+2000,Alan J. Heeger,1/22/1936,Male,Chemistry, for the discovery and development of conductive polymers ,United States of America,University of California,"Santa Barbara, CA, United States of America"
+2000,Hideki Shirakawa,8/20/1936,Male,Chemistry, for the discovery and development of conductive polymers ,Japan,University of Tsukuba,"Tokyo, Japan"
+1999,Ahmed H. Zewail,2/26/1946,Male,Chemistry, for his studies of the transition states of chemical reactions using femtosecond spectroscopy ,Egypt,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1998,John A. Pople,10/31/1925,Male,Chemistry, for his development of computational methods in quantum chemistry ,United Kingdom,Northwestern University,"Evanston, IL, United States of America"
+1998,Walter Kohn,9/3/1923,Male,Chemistry, for his development of the density-functional theory ,Austria,University of California,"Santa Barbara, CA, United States of America"
+1997,Jens C. Skou,8/10/1918,Male,Chemistry," for the first discovery of an ion-transporting enzyme, Na+, K+ -ATPase ",Denmark,Aarhus University,"Aarhus, Denmark"
+1997,John E. Walker,7/1/1941,Male,Chemistry, for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP) ,United Kingdom,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+1997,Paul D. Boyer,7/31/1918,Male,Chemistry, for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP) ,United States of America,University of California,"Los Angeles, CA, United States of America"
+1996,Richard E. Smalley,6/6/1943,Male,Chemistry, for their discovery of fullerenes ,United States of America,Rice University,"Houston, TX, United States of America"
+1996,Robert F. Curl Jr.,8/23/1933,Male,Chemistry, for their discovery of fullerenes ,United States of America,Rice University,"Houston, TX, United States of America"
+1996,Sir Harold W. Kroto,7/10/1939,Male,Chemistry, for their discovery of fullerenes ,United Kingdom,University of Sussex,"Brighton, United Kingdom"
+1995,F. Sherwood Rowland,6/28/1927,Male,Chemistry," for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone ",United States of America,University of California,"Irvine, CA, United States of America"
+1995,Mario J. Molina,3/19/1943,Male,Chemistry," for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone ",Mexico,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1995,Paul J. Crutzen,3/12/1933,Male,Chemistry," for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone ",Netherlands,Max-Planck-Institut,"Mainz, Germany"
+1994,George A. Olah,5/22/1927,Male,Chemistry, for his contribution to carbocation chemistry ,Hungary,University of Southern California,"Los Angeles, CA, United States of America"
+1993,Kary B. Mullis,12/28/1944,Male,Chemistry, for contributions to the developments of methods within DNA-based chemistry; for his invention of the polymerase chain reaction (PCR) method ,United States of America,,"La Jolla, CA, United States of America"
+1993,Michael Smith,4/26/1932,Male,Chemistry," for contributions to the developments of methods within DNA-based chemistry; for his fundamental contributions to the establishment of oligonucleotide-based, site-directed mutagenesis and its development for protein studies ",United Kingdom,University of British Columbia,"Vancouver, Canada"
+1992,Rudolph A. Marcus,7/21/1923,Male,Chemistry, for his contributions to the theory of electron transfer reactions in chemical systems ,Canada,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1991,Richard R. Ernst,8/14/1933,Male,Chemistry, for his contributions to the development of the methodology of high resolution nuclear magnetic resonance (NMR) spectroscopy ,Switzerland,Eidgenâˆšâˆ‚ssische Technische Hochschule (Swiss Federal Institute of Technology),"Zurich, Switzerland"
+1990,Elias James Corey,12/7/1928,Male,Chemistry, for his development of the theory and methodology of organic synthesis ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1989,Sidney Altman,7/5/1939,Male,Chemistry, for their discovery of catalytic properties of RNA ,Canada,Yale University,"New Haven, CT, United States of America"
+1989,Thomas R. Cech,8/12/1947,Male,Chemistry, for their discovery of catalytic properties of RNA ,United States of America,University of Colorado,"Boulder, CO, United States of America"
+1988,Hartmut Michel,7/18/1948,Male,Chemistry, for the determination of the three-dimensional structure of a photosynthetic reaction centre ,Germany,Max-Planck-Institut,"Frankfurt-on-the-Main, Germany"
+1988,Johann Deisenhofer,9/30/1943,Male,Chemistry, for the determination of the three-dimensional structure of a photosynthetic reaction centre ,Germany,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX, United States of America"
+1988,Robert Huber,2/20/1937,Male,Chemistry, for the determination of the three-dimensional structure of a photosynthetic reaction centre ,Germany,Max-Planck-Institut,"Martinsried, Germany"
+1987,Charles J. Pedersen,3/10/1904,Male,Chemistry, for their development and use of molecules with structure-specific interactions of high selectivity ,Korea (South Korea),Du Pont,"Wilmington, DE, United States of America"
+1987,Donald J. Cram,4/22/1919,Male,Chemistry, for their development and use of molecules with structure-specific interactions of high selectivity ,United States of America,University of California,"Los Angeles, CA, United States of America"
+1987,Jean-Marie Lehn,9/30/1939,Male,Chemistry, for their development and use of molecules with structure-specific interactions of high selectivity ,France,UniversitâˆšÂ© Louis Pasteur,"Strasbourg, France"
+1986,Dudley R. Herschbach,6/18/1932,Male,Chemistry, for their contributions concerning the dynamics of chemical elementary processes ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1986,John C. Polanyi,1/23/1929,Male,Chemistry, for their contributions concerning the dynamics of chemical elementary processes ,Germany,University of Toronto,"Toronto, Canada"
+1986,Yuan T. Lee,11/19/1936,Male,Chemistry, for their contributions concerning the dynamics of chemical elementary processes ,Taiwan,University of California,"Berkeley, CA, United States of America"
+1985,Herbert A. Hauptman,2/14/1917,Male,Chemistry, for their outstanding achievements in the development of direct methods for the determination of crystal structures ,United States of America,The Medical Foundation of Buffalo,"Buffalo, NY, United States of America"
+1985,Jerome Karle,6/18/1918,Male,Chemistry, for their outstanding achievements in the development of direct methods for the determination of crystal structures ,United States of America,US Naval Research Laboratory,"Washington, DC, United States of America"
+1984,Robert Bruce Merrifield,7/15/1921,Male,Chemistry, for his development of methodology for chemical synthesis on a solid matrix ,United States of America,Rockefeller University,"New York, NY, United States of America"
+1983,Henry Taube,11/30/1915,Male,Chemistry," for his work on the mechanisms of electron transfer reactions, especially in metal complexes ",Canada,Stanford University,"Stanford, CA, United States of America"
+1982,Aaron Klug,11/8/1926,Male,Chemistry, for his development of crystallographic electron microscopy and his structural elucidation of biologically important nucleic acid-protein complexes ,Lithuania,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+1981,Kenichi Fukui,4/10/1918,Male,Chemistry," for their theories, developed independently, concerning the course of chemical reactions ",Japan,Kyoto University,"Kyoto, Japan"
+1981,Roald Hoffmann,7/18/1937,Male,Chemistry," for their theories, developed independently, concerning the course of chemical reactions ",Ukraine,Cornell University,"Ithaca, NY, United States of America"
+1980,Frederick Sanger,8/13/1918,Male,Chemistry, for their contributions concerning the determination of base sequences in nucleic acids ,United Kingdom,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+1980,Paul Berg,6/30/1926,Male,Chemistry," for his fundamental studies of the biochemistry of nucleic acids, with particular regard to recombinant-DNA ",United States of America,Stanford University,"Stanford, CA, United States of America"
+1980,Walter Gilbert,3/21/1932,Male,Chemistry, for their contributions concerning the determination of base sequences in nucleic acids ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1979,Georg Wittig,1897/06/16,Male,Chemistry," for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis ",Germany,University of Heidelberg,"Heidelberg, Germany"
+1979,Herbert C. Brown,5/22/1912,Male,Chemistry," for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis ",United Kingdom,Purdue University,"West Lafayette, IN, United States of America"
+1978,Peter D. Mitchell,9/29/1920,Male,Chemistry, for his contribution to the understanding of biological energy transfer through the formulation of the chemiosmotic theory ,United Kingdom,Glynn Research Laboratories,"Bodmin, United Kingdom"
+1977,Ilya Prigogine,1/25/1917,Male,Chemistry," for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures ",Russia,UniversitâˆšÂ© Libre de Bruxelles,"Brussels, Belgium"
+1976,William N. Lipscomb,9/12/1919,Male,Chemistry, for his studies on the structure of boranes illuminating problems of chemical bonding ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1975,John Warcup Cornforth,7/9/1917,Male,Chemistry, for his work on the stereochemistry of enzyme-catalyzed reactions ,Australia,University of Sussex,"Brighton, United Kingdom"
+1975,Vladimir Prelog,7/23/1906,Male,Chemistry, for his research into the stereochemistry of organic molecules and reactions ,Bosnia and Herzegovina,Eidgenâˆšâˆ‚ssische Technische Hochschule (Swiss Federal Institute of Technology),"Zurich, Switzerland"
+1974,Paul J. Flory,6/19/1910,Male,Chemistry," for his fundamental achievements, both theoretical and experimental, in the physical chemistry of the macromolecules ",United States of America,Stanford University,"Stanford, CA, United States of America"
+1973,Ernst Otto Fischer,10/11/1918,Male,Chemistry," for their pioneering work, performed independently, on the chemistry of the organometallic, so called sandwich compounds ",Germany,Technical University,"Munich, Germany"
+1973,Geoffrey Wilkinson,7/14/1921,Male,Chemistry," for their pioneering work, performed independently, on the chemistry of the organometallic, so called sandwich compounds ",United Kingdom,Imperial College,"London, United Kingdom"
+1972,Christian B. Anfinsen,3/26/1916,Male,Chemistry," for his work on ribonuclease, especially concerning the connection between the amino acid sequence and the biologically active conformation ",United States of America,National Institutes of Health,"Bethesda, MD, United States of America"
+1972,Stanford Moore,4/9/1913,Male,Chemistry, for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule ,United States of America,Rockefeller University,"New York, NY, United States of America"
+1972,William H. Stein,6/25/1911,Male,Chemistry, for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule ,United States of America,Rockefeller University,"New York, NY, United States of America"
+1971,Gerhard Herzberg,12/25/1904,Male,Chemistry," for his contributions to the knowledge of electronic structure and geometry of molecules, particularly free radicals ",Germany,National Research Council of Canada,"Ottawa, Canada"
+1970,Luis F. Leloir,6/9/1906,Male,Chemistry, for his discovery of sugar nucleotides and their role in the biosynthesis of carbohydrates ,France,Institute for Biochemical Research,"Buenos Aires, Argentina"
+1969,Derek H. R. Barton,8/9/1918,Male,Chemistry, for their contributions to the development of the concept of conformation and its application in chemistry ,United Kingdom,Imperial College,"London, United Kingdom"
+1969,Odd Hassel,1897/05/17,Male,Chemistry, for their contributions to the development of the concept of conformation and its application in chemistry ,Norway,University of Oslo,"Oslo, Norway"
+1968,Lars Onsager,11/27/1903,Male,Chemistry," for the discovery of the reciprocal relations bearing his name, which are fundamental for the thermodynamics of irreversible processes ",Norway,Yale University,"New Haven, CT, United States of America"
+1967,George Porter,6/12/1920,Male,Chemistry," for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy ",United Kingdom,Royal Institution of Great Britain,"London, United Kingdom"
+1967,Manfred Eigen,9/5/1927,Male,Chemistry," for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy ",Germany,Max-Planck-Institut,"Gâˆšâˆ‚ttingen, Germany"
+1967,Ronald George Wreyford Norrish,1897/11/09,Male,Chemistry," for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy ",United Kingdom,Institute of Physical Chemistry,"Cambridge, United Kingdom"
+1966,Robert S. Mulliken,1896/06/07,Male,Chemistry, for his fundamental work concerning chemical bonds and the electronic structure of molecules by the molecular orbital method ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+1965,Robert Burns Woodward,10/4/1917,Male,Chemistry, for his outstanding achievements in the art of organic synthesis ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1964,Dorothy Crowfoot Hodgkin,12/5/1910,Female,Chemistry, for her determinations by X-ray techniques of the structures of important biochemical substances ,Egypt,University of Oxford,"Oxford, United Kingdom"
+1963,Giulio Natta,2/26/1903,Male,Chemistry, for their discoveries in the field of the chemistry and technology of high polymers ,Italy,Institute of Technology,"Milan, Italy"
+1963,Karl Ziegler,1898/11/26,Male,Chemistry, for their discoveries in the field of the chemistry and technology of high polymers ,Germany,Max-Planck-Institut,"MâˆšÂºlheim/Ruhr, Germany"
+1962,John Cowdery Kendrew,3/24/1917,Male,Chemistry, for their studies of the structures of globular proteins ,United Kingdom,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+1962,Max Ferdinand Perutz,5/19/1914,Male,Chemistry, for their studies of the structures of globular proteins ,Austria,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+1961,Melvin Calvin,8/4/1911,Male,Chemistry, for his research on the carbon dioxide assimilation in plants ,United States of America,University of California,"Berkeley, CA, United States of America"
+1960,Willard Frank Libby,12/17/1908,Male,Chemistry," for his method to use carbon-14 for age determination in archaeology, geology, geophysics, and other branches of science ",United States of America,University of California,"Los Angeles, CA, United States of America"
+1959,Jaroslav Heyrovsky,1890/12/20,Male,Chemistry, for his discovery and development of the polarographic methods of analysis ,Czech Republic,Polarographic Institute of the Czechoslovak Academy of Science,"Prague, Czech Republic"
+1958,Frederick Sanger,8/13/1918,Male,Chemistry," for his work on the structure of proteins, especially that of insulin ",United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1957,Lord (Alexander R.) Todd,2/10/1907,Male,Chemistry, for his work on nucleotides and nucleotide co-enzymes ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1956,Nikolay Nikolaevich Semenov,1896/04/03,Male,Chemistry, for their researches into the mechanism of chemical reactions ,Russia,Institute for Chemical Physics of the Academy of Sciences of the USSR,"Moscow, Russia"
+1956,Sir Cyril Norman Hinshelwood,1897/05/19,Male,Chemistry, for their researches into the mechanism of chemical reactions ,United Kingdom,University of Oxford,"Oxford, United Kingdom"
+1955,Vincent du Vigneaud,5/18/1901,Male,Chemistry," for his work on biochemically important sulphur compounds, especially for the first synthesis of a polypeptide hormone ",United States of America,Cornell University,"Ithaca, NY, United States of America"
+1954,Linus Carl Pauling,2/28/1901,Male,Chemistry, for his research into the nature of the chemical bond and its application to the elucidation of the structure of complex substances ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1953,Hermann Staudinger,1881/03/23,Male,Chemistry, for his discoveries in the field of macromolecular chemistry ,Germany,University of Freiburg,"Breisgau, Germany"
+1952,Archer John Porter Martin,1/3/1910,Male,Chemistry, for their invention of partition chromatography ,United Kingdom,National Institute for Medical Research,"London, United Kingdom"
+1952,Richard Laurence Millington Synge,10/28/1914,Male,Chemistry, for their invention of partition chromatography ,United Kingdom,Rowett Research Institute,"Bucksburn (Scotland), United Kingdom"
+1951,Edwin Mattison McMillan,9/18/1907,Male,Chemistry, for their discoveries in the chemistry of the transuranium elements ,United States of America,University of California,"Berkeley, CA, United States of America"
+1951,Glenn Theodore Seaborg,4/19/1912,Male,Chemistry, for their discoveries in the chemistry of the transuranium elements ,United States of America,University of California,"Berkeley, CA, United States of America"
+1950,Kurt Alder,10/7/1902,Male,Chemistry, for their discovery and development of the diene synthesis ,Poland,Cologne University,"Cologne, Germany"
+1950,Otto Paul Hermann Diels,1876/01/23,Male,Chemistry, for their discovery and development of the diene synthesis ,Germany,Kiel University,"Kiel, Germany"
+1949,William Francis Giauque,1895/05/12,Male,Chemistry," for his contributions in the field of chemical thermodynamics, particularly concerning the behaviour of substances at extremely low temperatures ",Canada,University of California,"Berkeley, CA, United States of America"
+1948,Arne Wilhelm Kaurin Tiselius,10/8/1902,Male,Chemistry," for his research on electrophoresis and adsorption analysis, especially for his discoveries concerning the complex nature of the serum proteins ",Sweden,Uppsala University,"Uppsala, Sweden"
+1947,Sir Robert Robinson,1886/09/13,Male,Chemistry," for his investigations on plant products of biological importance, especially the alkaloids ",United Kingdom,University of Oxford,"Oxford, United Kingdom"
+1946,James Batcheller Sumner,1887/11/19,Male,Chemistry, for his discovery that enzymes can be crystallized ,United States of America,Cornell University,"Ithaca, NY, United States of America"
+1946,John Howard Northrop,1891/07/05,Male,Chemistry, for their preparation of enzymes and virus proteins in a pure form ,United States of America,Rockefeller Institute for Medical Research,"Princeton, NJ, United States of America"
+1946,Wendell Meredith Stanley,8/16/1904,Male,Chemistry, for their preparation of enzymes and virus proteins in a pure form ,United States of America,Rockefeller Institute for Medical Research,"Princeton, NJ, United States of America"
+1945,Artturi Ilmari Virtanen,1895/01/15,Male,Chemistry," for his research and inventions in agricultural and nutrition chemistry, especially for his fodder preservation method ",Finland,University of Helsinki,"Helsinki, Finland"
+1944,Otto Hahn,1879/03/08,Male,Chemistry, for his discovery of the fission of heavy nuclei ,Germany,Max-Planck Institut,"Berlin-Dahlem, Germany"
+1943,George de Hevesy,1885/08/01,Male,Chemistry, for his work on the use of isotopes as tracers in the study of chemical processes ,Hungary,Stockholm University,"Stockholm, Sweden"
+1939,Adolf Friedrich Johann Butenandt,3/24/1903,Male,Chemistry, for his work on sex hormones ,Germany,Max-Planck Institut,"Berlin-Dahlem, Germany"
+1939,Leopold Ruzicka,1887/09/13,Male,Chemistry, for his work on polymethylenes and higher terpenes ,Croatia,Eidgenâˆšâˆ‚ssische Technische Hochschule (Swiss Federal Institute of Technology),"Zurich, Switzerland"
+1938,Richard Kuhn,3/12/1900,Male,Chemistry, for his work on carotenoids and vitamins ,Austria,Max-Planck Institut,"Heidelberg, Germany"
+1937,Paul Karrer,1889/04/21,Male,Chemistry," for his investigations on carotenoids, flavins and vitamins A and B2 ",Russia,University of Zurich,"Zurich, Switzerland"
+1937,Walter Norman Haworth,1883/03/19,Male,Chemistry, for his investigations on carbohydrates and vitamin C ,United Kingdom,Birmingham University,"Birmingham, United Kingdom"
+1936,Petrus (Peter) Josephus Wilhelmus Debye,1884/03/24,Male,Chemistry, for his contributions to our knowledge of molecular structure through his investigations on dipole moments and on the diffraction of X-rays and electrons in gases ,Netherlands,Berlin University,"Berlin, Germany"
+1935,FrâˆšÂ©dâˆšÂ©ric Joliot,3/19/1900,Male,Chemistry, in recognition of their synthesis of new radioactive elements ,France,Institut du Radium,"Paris, France"
+1935,IrâˆšÂ®ne Joliot-Curie,1897/09/12,Female,Chemistry, in recognition of their synthesis of new radioactive elements ,France,Institut du Radium,"Paris, France"
+1934,Harold Clayton Urey,1893/04/29,Male,Chemistry, for his discovery of heavy hydrogen ,United States of America,Columbia University,"New York, NY, United States of America"
+1932,Irving Langmuir,1881/01/31,Male,Chemistry, for his discoveries and investigations in surface chemistry ,United States of America,General Electric Company,"Schenectady, NY, United States of America"
+1931,Carl Bosch,1874/08/27,Male,Chemistry, in recognition of their contributions to the invention and development of chemical high pressure methods ,Germany,University of Heidelberg,"Heidelberg, Germany"
+1931,Friedrich Bergius,1884/10/11,Male,Chemistry, in recognition of their contributions to the invention and development of chemical high pressure methods ,Poland,University of Heidelberg,"Heidelberg, Germany"
+1930,Hans Fischer,1881/07/27,Male,Chemistry, for his researches into the constitution of haemin and chlorophyll and especially for his synthesis of haemin ,Germany,Technische Hochschule (Institute of Technology),"Munich, Germany"
+1929,Arthur Harden,1865/10/12,Male,Chemistry, for their investigations on the fermentation of sugar and fermentative enzymes ,United Kingdom,London University,"London, United Kingdom"
+1929,Hans Karl August Simon von Euler-Chelpin,1873/02/15,Male,Chemistry, for their investigations on the fermentation of sugar and fermentative enzymes ,Germany,Stockholm University,"Stockholm, Sweden"
+1928,Adolf Otto Reinhold Windaus,1876/12/25,Male,Chemistry, for the services rendered through his research into the constitution of the sterols and their connection with the vitamins ,Germany,Goettingen University,"Gâˆšâˆ‚ttingen, Germany"
+1927,Heinrich Otto Wieland,1877/06/04,Male,Chemistry, for his investigations of the constitution of the bile acids and related substances ,Germany,Munich University,"Munich, Germany"
+1926,The (Theodor) Svedberg,1884/08/30,Male,Chemistry, for his work on disperse systems ,Sweden,Uppsala University,"Uppsala, Sweden"
+1925,Richard Adolf Zsigmondy,1865/04/01,Male,Chemistry," for his demonstration of the heterogenous nature of colloid solutions and for the methods he used, which have since become fundamental in modern colloid chemistry ",Austria,Goettingen University,"Gâˆšâˆ‚ttingen, Germany"
+1923,Fritz Pregl,1869/09/03,Male,Chemistry, for his invention of the method of micro-analysis of organic substances ,Slovenia,Graz University,"Graz, Austria"
+1922,Francis William Aston,1877/09/01,Male,Chemistry," for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule ",United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1921,Frederick Soddy,1877/09/02,Male,Chemistry," for his contributions to our knowledge of the chemistry of radioactive substances, and his investigations into the origin and nature of isotopes ",United Kingdom,University of Oxford,"Oxford, United Kingdom"
+1920,Walther Hermann Nernst,1864/06/25,Male,Chemistry, in recognition of his work in thermochemistry ,Germany,Berlin University,"Berlin, Germany"
+1918,Fritz Haber,1868/12/09,Male,Chemistry, for the synthesis of ammonia from its elements ,Poland,Fritz-Haber-Institut,"Berlin-Dahlem, Germany"
+1915,Richard Martin WillstâˆšÂ§tter,1872/08/13,Male,Chemistry," for his researches on plant pigments, especially chlorophyll ",Germany,Munich University,"Munich, Germany"
+1914,Theodore William Richards,1868/01/31,Male,Chemistry, in recognition of his accurate determinations of the atomic weight of a large number of chemical elements ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1913,Alfred Werner,1866/12/12,Male,Chemistry, in recognition of his work on the linkage of atoms in molecules by which he has thrown new light on earlier investigations and opened up new fields of research especially in inorganic chemistry ,France,University of Zurich,"Zurich, Switzerland"
+1912,Paul Sabatier,1854/11/05,Male,Chemistry, for his method of hydrogenating organic compounds in the presence of finely disintegrated metals whereby the progress of organic chemistry has been greatly advanced in recent years ,France,Toulouse University,"Toulouse, France"
+1912,Victor Grignard,1871/05/06,Male,Chemistry," for the discovery of the so-called Grignard reagent, which in recent years has greatly advanced the progress of organic chemistry ",France,Nancy University,"Nancy, France"
+1911,"Marie Curie, nâˆšÂ©e Sklodowska",1867/11/07,Female,Chemistry," in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element ",Poland,Sorbonne University,"Paris, France"
+1910,Otto Wallach,1847/03/27,Male,Chemistry, in recognition of his services to organic chemistry and the chemical industry by his pioneer work in the field of alicyclic compounds ,Russia,Goettingen University,"Gâˆšâˆ‚ttingen, Germany"
+1909,Wilhelm Ostwald,1853/09/02,Male,Chemistry, in recognition of his work on catalysis and for his investigations into the fundamental principles governing chemical equilibria and rates of reaction ,Latvia,Leipzig University,"Leipzig, Germany"
+1908,Ernest Rutherford,1871/08/30,Male,Chemistry," for his investigations into the disintegration of the elements, and the chemistry of radioactive substances ",New Zealand,Victoria University,"Manchester, United Kingdom"
+1907,Eduard Buchner,1860/05/20,Male,Chemistry, for his biochemical researches and his discovery of cell-free fermentation ,Germany,Landwirtschaftliche Hochschule (Agricultural College),"Berlin, Germany"
+1906,Henri Moissan,1852/09/28,Male,Chemistry," in recognition of the great services rendered by him in his investigation and isolation of the element fluorine, and for the adoption in the service of science of the electric furnace called after him ",France,Sorbonne University,"Paris, France"
+1905,Johann Friedrich Wilhelm Adolf von Baeyer,1835/10/31,Male,Chemistry," in recognition of his services in the advancement of organic chemistry and the chemical industry, through his work on organic dyes and hydroaromatic compounds ",Germany,Munich University,"Munich, Germany"
+1904,Sir William Ramsay,1852/10/02,Male,Chemistry," in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system ",United Kingdom,University College London,"London, United Kingdom"
+1903,Svante August Arrhenius,1859/02/19,Male,Chemistry, in recognition of the extraordinary services he has rendered to the advancement of chemistry by his electrolytic theory of dissociation ,Sweden,Stockholm University,"Stockholm, Sweden"
+1902,Hermann Emil Fischer,1852/10/09,Male,Chemistry, in recognition of the extraordinary services he has rendered by his work on sugar and purine syntheses ,Germany,Berlin University,"Berlin, Germany"
+1901,Jacobus Henricus van 't Hoff,1852/08/30,Male,Chemistry, in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions ,Netherlands,Berlin University,"Berlin, Germany"
+1969,Jan Tinbergen,12/4/1903,Male,Economics, for having developed and applied dynamic models for the analysis of economic processes ,Netherlands,The Netherlands School of Economics,"Rotterdam, Netherlands"
+1969,Ragnar Frisch,1895/03/03,Male,Economics, for having developed and applied dynamic models for the analysis of economic processes ,Norway,University of Oslo,"Oslo, Norway"
+1970,Paul A. Samuelson,5/15/1915,Male,Economics, for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1971,Simon Kuznets,4/30/1901,Male,Economics, for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development ,Belarus,Harvard University,"Cambridge, MA, United States of America"
+1972,John R. Hicks,8/4/1904,Male,Economics, for their pioneering contributions to general economic equilibrium theory and welfare theory ,United Kingdom,University of Oxford,"Oxford, United Kingdom"
+1972,Kenneth J. Arrow,8/23/1921,Male,Economics, for their pioneering contributions to general economic equilibrium theory and welfare theory ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1973,Wassily Leontief,5/8/1906,Male,Economics, for the development of the input-output method and for its application to important economic problems ,Russia,Harvard University,"Cambridge, MA, United States of America"
+1974,Friedrich August von Hayek,1899/05/08,Male,Economics," for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena ",Austria,,
+1974,Gunnar Myrdal,1898/12/06,Male,Economics," for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena ",Sweden,,
+1975,Leonid Vitaliyevich Kantorovich,1/19/1912,Male,Economics, for their contributions to the theory of optimum allocation of resources ,Russia,Academy of Sciences,"Moscow, Russia"
+1975,Tjalling C. Koopmans,8/28/1910,Male,Economics, for their contributions to the theory of optimum allocation of resources ,Netherlands,Yale University,"New Haven, CT, United States of America"
+1976,Milton Friedman,7/31/1912,Male,Economics," for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy ",United States of America,University of Chicago,"Chicago, IL, United States of America"
+1977,Bertil Ohlin,1899/04/23,Male,Economics, for their pathbreaking contribution to the theory of international trade and international capital movements ,Sweden,Stockholm School of Economics,"Stockholm, Sweden"
+1977,James E. Meade,6/23/1907,Male,Economics, for their pathbreaking contribution to the theory of international trade and international capital movements ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1978,Herbert A. Simon,6/15/1916,Male,Economics, for his pioneering research into the decision-making process within economic organizations ,United States of America,Carnegie Mellon University,"Pittsburgh, PA, United States of America"
+1979,Sir Arthur Lewis,1/23/1915,Male,Economics, for their pioneering research into economic development research with particular consideration of the problems of developing countries ,Saint Lucia,Princeton University,"Princeton, NJ, United States of America"
+1979,Theodore W. Schultz,4/30/1902,Male,Economics, for their pioneering research into economic development research with particular consideration of the problems of developing countries ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+1980,Lawrence R. Klein,9/14/1920,Male,Economics, for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies ,United States of America,University of Pennsylvania,"Philadelphia, PA, United States of America"
+1981,James Tobin,5/3/1918,Male,Economics," for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices ",United States of America,Yale University,"New Haven, CT, United States of America"
+1982,George J. Stigler,1/17/1911,Male,Economics," for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation ",United States of America,University of Chicago,"Chicago, IL, United States of America"
+1983,Gerard Debreu,4/7/1921,Male,Economics, for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium ,France,University of California,"Berkeley, CA, United States of America"
+1984,Richard Stone,8/30/1913,Male,Economics, for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1985,Franco Modigliani,6/18/1918,Male,Economics, for his pioneering analyses of saving and of financial markets ,Italy,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1986,James M. Buchanan Jr.,3/10/1919,Male,Economics, for his development of the contractual and constitutional bases for the theory of economic and political decision-making ,United States of America,Center for Study of Public Choice,"Fairfax, VA, United States of America"
+1987,Robert M. Solow,8/23/1924,Male,Economics, for his contributions to the theory of economic growth ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1988,Maurice Allais,5/31/1911,Male,Economics, for his pioneering contributions to the theory of markets and efficient utilization of resources ,France,âˆšÃ¢cole Nationale SupâˆšÂ©rieur des Mines de Paris,"Paris, France"
+1989,Trygve Haavelmo,12/13/1911,Male,Economics, for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures ,Norway,University of Oslo,"Oslo, Norway"
+1990,Harry M. Markowitz,8/24/1927,Male,Economics, for their pioneering work in the theory of financial economics ,United States of America,City University of New York,"New York, NY, United States of America"
+1990,Merton H. Miller,5/16/1923,Male,Economics, for their pioneering work in the theory of financial economics ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+1990,William F. Sharpe,6/16/1934,Male,Economics, for their pioneering work in the theory of financial economics ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1991,Ronald H. Coase,12/29/1910,Male,Economics, for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy ,United Kingdom,University of Chicago,"Chicago, IL, United States of America"
+1992,Gary S. Becker,2/12/1930,Male,Economics," for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour ",United States of America,University of Chicago,"Chicago, IL, United States of America"
+1993,Douglass C. North,5/11/1920,Male,Economics, for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change ,United States of America,Washington University,"St. Louis, MO, United States of America"
+1993,Robert W. Fogel,1/7/1927,Male,Economics, for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+1994,John C. Harsanyi,5/29/1920,Male,Economics, for their pioneering analysis of equilibria in the theory of non-cooperative games ,Hungary,University of California,"Berkeley, CA, United States of America"
+1994,John F. Nash Jr.,6/13/1928,Male,Economics, for their pioneering analysis of equilibria in the theory of non-cooperative games ,United States of America,Princeton University,"Princeton, NJ, United States of America"
+1994,Reinhard Selten,5/10/1930,Male,Economics, for their pioneering analysis of equilibria in the theory of non-cooperative games ,Poland,Rheinische Friedrich-Wilhelms-UniversitâˆšÂ§t,"Bonn, Germany"
+1995,Robert E. Lucas Jr.,9/15/1937,Male,Economics," for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy ",United States of America,University of Chicago,"Chicago, IL, United States of America"
+1996,James A. Mirrlees,5/7/1936,Male,Economics, for their fundamental contributions to the economic theory of incentives under asymmetric information ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1996,William Vickrey,6/21/1914,Male,Economics, for their fundamental contributions to the economic theory of incentives under asymmetric information ,Canada,Columbia University,"New York, NY, United States of America"
+1997,Myron S. Scholes,1/7/1941,Male,Economics, for a new method to determine the value of derivatives ,Canada,Long Term Capital Management,"Greenwich, CT, United States of America"
+1997,Robert C. Merton,7/31/1944,Male,Economics, for a new method to determine the value of derivatives ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1998,Amartya Sen,3/11/1933,Male,Economics, for his contributions to welfare economics ,India,University of Cambridge,"Cambridge, United Kingdom"
+1999,Robert A. Mundell,10/24/1932,Male,Economics, for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas ,Canada,Columbia University,"New York, NY, United States of America"
+2000,Daniel L. McFadden,7/29/1937,Male,Economics, for his development of theory and methods for analyzing discrete choice ,United States of America,University of California,"Berkeley, CA, United States of America"
+2000,James J. Heckman,4/19/1944,Male,Economics, for his development of theory and methods for analyzing selective samples ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+2001,A. Michael Spence,1/1/1943,Male,Economics, for their analyses of markets with asymmetric information ,United States of America,Stanford University,"Stanford, CA, United States of America"
+2001,George A. Akerlof,6/17/1940,Male,Economics, for their analyses of markets with asymmetric information ,United States of America,University of California,"Berkeley, CA, United States of America"
+2001,Joseph E. Stiglitz,9/2/1943,Male,Economics, for their analyses of markets with asymmetric information ,United States of America,Columbia University,"New York, NY, United States of America"
+2002,Daniel Kahneman,5/3/1934,Male,Economics," for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty ",Israel,Princeton University,"Princeton, NJ, United States of America"
+2002,Vernon L. Smith,1/1/1927,Male,Economics," for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms ",United States of America,George Mason University,"Fairfax, VA, United States of America"
+2003,Clive W.J. Granger,4/9/1934,Male,Economics, for methods of analyzing economic time series with common trends (cointegration) ,United Kingdom,University of California,"San Diego, CA, United States of America"
+2003,Robert F. Engle III,10/11/1942,Male,Economics, for methods of analyzing economic time series with time-varying volatility (ARCH) ,United States of America,New York University,"New York, NY, United States of America"
+2004,Edward C. Prescott,12/26/1940,Male,Economics, for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles ,United States of America,Arizona State University,"Tempe, AZ, United States of America"
+2004,Finn E. Kydland,1/12/1943,Male,Economics, for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles ,Norway,Carnegie Mellon University,"Pittsburgh, PA, United States of America"
+2005,Robert J. Aumann,8/6/1930,Male,Economics, for having enhanced our understanding of conflict and cooperation through game-theory analysis ,Germany,"University of Jerusalem, Center for Rationality","Jerusalem, Israel"
+2005,Thomas C. Schelling,4/14/1921,Male,Economics, for having enhanced our understanding of conflict and cooperation through game-theory analysis ,United States of America,"University of Maryland, Department of Economics and School of Public Policy","College Park, MD, United States of America"
+2006,Edmund S. Phelps,7/26/1933,Male,Economics, for his analysis of intertemporal tradeoffs in macroeconomic policy ,United States of America,Columbia University,"New York, NY, United States of America"
+2007,Eric S. Maskin,12/12/1950,Male,Economics, for having laid the foundations of mechanism design theory ,United States of America,Institute for Advanced Study,"Princeton, NJ, United States of America"
+2007,Leonid Hurwicz,8/21/1917,Male,Economics, for having laid the foundations of mechanism design theory ,Russia,University of Minnesota,"Minneapolis, MN, United States of America"
+2007,Roger B. Myerson,3/29/1951,Male,Economics, for having laid the foundations of mechanism design theory ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+2008,Paul Krugman,2/28/1953,Male,Economics, for his analysis of trade patterns and location of economic activity ,United States of America,Princeton University,"Princeton, NJ, United States of America"
+2009,Elinor Ostrom,7/8/1933,Female,Economics," for her analysis of economic governance, especially the commons ",United States of America,Indiana University,"Bloomington, IN, United States of America"
+2009,Oliver E. Williamson,9/27/1932,Male,Economics," for his analysis of economic governance, especially the boundaries of the firm ",United States of America,University of California,"Berkeley, CA, United States of America"
+2010,Christopher A. Pissarides,2/20/1948,Male,Economics, for their analysis of markets with search frictions ,Cyprus,London School of Economics and Political Science,"London, United Kingdom"
+2010,Dale T. Mortensen,2/2/1939,Male,Economics, for their analysis of markets with search frictions ,United States of America,Northwestern University,"Evanston, IL, United States of America"
+2010,Peter A. Diamond,4/29/1940,Male,Economics, for their analysis of markets with search frictions ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+2011,Christopher A. Sims,10/21/1942,Male,Economics, for their empirical research on cause and effect in the macroeconomy ,United States of America,Princeton University,"Princeton, NJ, United States of America"
+2011,Thomas J. Sargent,7/19/1943,Male,Economics, for their empirical research on cause and effect in the macroeconomy ,United States of America,New York University,"New York, NY, United States of America"
+2012,Alvin E. Roth,12/18/1951,Male,Economics, for the theory of stable allocations and the practice of market design ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+2012,Lloyd S. Shapley,2/6/1923,Male,Economics, for the theory of stable allocations and the practice of market design ,United States of America,University of California,"Los Angeles, CA, United States of America"
+2013,Eugene F. Fama,2/14/1939,Male,Economics, for their empirical analysis of asset prices ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+2013,Lars Peter Hansen,10/26/1952,Male,Economics, for their empirical analysis of asset prices ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+2013,Robert J. Shiller,3/29/1946,Male,Economics, for their empirical analysis of asset prices ,United States of America,Yale University,"New Haven, CT, United States of America"
+2014,Jean Tirole,9/8/1953,Male,Economics, for his analysis of market power and regulation ,France,Toulouse School of Economics (TSE),"Toulouse, France"
+2015,Angus Deaton,10/19/1945,Male,Economics," for his analysis of consumption, poverty, and welfare ",United Kingdom,Princeton University,"Princeton, NJ, United States of America"
+2016,Bengt Holmstrâˆšâˆ‚m,4/18/1949,Male,Economics, for their contributions to contract theory ,Finland,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+2016,Oliver Hart,9/10/1948,Male,Economics, for their contributions to contract theory ,United Kingdom,Harvard University,"Cambridge, MA, United States of America"
+2017,Richard H. Thaler,12/9/1945,Male,Economics, for his contributions to behavioural economics ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+2018,Paul M. Romer,6/11/1955,Male,Economics, for integrating technological innovations into long-run macroeconomic analysis ,United States of America,New York University,"New York, NY, United States of America"
+2018,William D. Nordhaus,5/31/1941,Male,Economics, for integrating climate change into long-run macroeconomic analysis ,United States of America,Yale University,"New Haven, CT, United States of America"
+2019,Abhijit Banerjee,2/21/1961,Male,Economics, for their experimental approach to alleviating global poverty ,India,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+2019,Esther Duflo,10/25/1972,Female,Economics, for their experimental approach to alleviating global poverty ,France,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+2019,Michael Kremer,12/11/1964,Male,Economics, for their experimental approach to alleviating global poverty ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+2020,Paul R. Milgrom,4/20/1948,Male,Economics, for improvements to auction theory and inventions of new auction formats ,United States of America,Stanford University,"Stanford, CA, United States of America"
+2020,Robert B. Wilson,5/16/1937,Male,Economics, for improvements to auction theory and inventions of new auction formats ,United States of America,Stanford University,"Stanford, CA, United States of America"
+2021,David Card,1956,Male,Economics,for his empirical contributions to labour economics,Canada,University of California,"Berkeley, CA, USA"
+2021,Joshua D. Angrist,9/18/1960,Male,Economics,for their methodological contributions to the analysis of causal relationships,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, USA"
+2021,Guido W. Imbens,3/9/1963,Male,Economics,for their methodological contributions to the analysis of causal relationships,Netherlands,Stanford University,"Stanford, CA, USA"
+1901,Sully Prudhomme,1839/03/16,Male,Literature," in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect ",France,,
+1902,Christian Matthias Theodor Mommsen,1817/11/30,Male,Literature," the greatest living master of the art of historical writing, with special reference to his monumental work, <I>A history of Rome</I> ",Germany,,
+1903,Bjâˆšâˆrnstjerne Martinus Bjâˆšâˆrnson,1832/12/08,Male,Literature," as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit ",Norway,,
+1904,FrâˆšÂ©dâˆšÂ©ric Mistral,1830/09/08,Male,Literature," in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Proven&ccedil;al philologist ",France,,
+1904,JosâˆšÂ© Echegaray y Eizaguirre,1832/04/19,Male,Literature," in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama ",Spain,,
+1905,Henryk Sienkiewicz,1846/05/05,Male,Literature, because of his outstanding merits as an epic writer ,Poland,,
+1906,GiosuâˆšÂ® Carducci,1835/07/27,Male,Literature," not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces ",Italy,,
+1907,Rudyard Kipling,1865/12/30,Male,Literature," in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author ",India,,
+1908,Rudolf Christoph Eucken,1846/01/05,Male,Literature," in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life ",Germany,,
+1909,Selma Ottilia Lovisa Lagerlâˆšâˆ‚f,1858/11/20,Female,Literature," in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings ",Sweden,,
+1910,Paul Johann Ludwig Heyse,1830/03/15,Male,Literature," as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories ",Germany,,
+1911,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck,1862/08/29,Male,Literature," in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations ",Belgium,,
+1912,Gerhart Johann Robert Hauptmann,1862/11/15,Male,Literature," primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art ",Germany,,
+1913,Rabindranath Tagore,1861/05/07,Male,Literature," because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West ",India,,
+1915,Romain Rolland,1866/01/29,Male,Literature, as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings ,France,,
+1916,Carl Gustaf Verner von Heidenstam,1859/07/06,Male,Literature, in recognition of his significance as the leading representative of a new era in our literature ,Sweden,,
+1917,Henrik Pontoppidan,1857/07/24,Male,Literature, for his authentic descriptions of present-day life in Denmark ,Denmark,,
+1917,Karl Adolph Gjellerup,1857/06/02,Male,Literature," for his varied and rich poetry, which is inspired by lofty ideals ",Denmark,,
+1919,Carl Friedrich Georg Spitteler,1845/04/24,Male,Literature," in special appreciation of his epic, <I>Olympian Spring</I> ",Switzerland,,
+1920,Knut Pedersen Hamsun,1859/08/04,Male,Literature," for his monumental work, <I>Growth of the Soil</I> ",Norway,,
+1921,Anatole France,1844/04/16,Male,Literature," in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament ",France,,
+1922,Jacinto Benavente,1866/08/12,Male,Literature, for the happy manner in which he has continued the illustrious traditions of the Spanish drama ,Spain,,
+1923,William Butler Yeats,1865/06/13,Male,Literature," for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation ",Ireland,,
+1924,Wladyslaw Stanislaw Reymont,1867/05/07,Male,Literature," for his great national epic, <I>The Peasants</I> ",Poland,,
+1925,George Bernard Shaw,1856/07/26,Male,Literature," for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty ",Ireland,,
+1926,Grazia Deledda,1871/09/27,Female,Literature, for her idealistically inspired writings which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general ,Italy,,
+1927,Henri Bergson,1859/10/18,Male,Literature, in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented ,France,,
+1928,Sigrid Undset,1882/05/20,Female,Literature, principally for her powerful descriptions of Northern life during the Middle Ages ,Denmark,,
+1929,Thomas Mann,1875/06/06,Male,Literature," principally for his great novel, <I>Buddenbrooks</I>, which has won steadily increased recognition as one of the classic works of contemporary literature ",Germany,,
+1930,Sinclair Lewis,1885/02/07,Male,Literature," for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters ",United States of America,,
+1931,Erik Axel Karlfeldt,1864/07/20,Male,Literature, The poetry of Erik Axel Karlfeldt ,Sweden,,
+1932,John Galsworthy,1867/08/14,Male,Literature, for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I> ,United Kingdom,,
+1933,Ivan Alekseyevich Bunin,1870/10/22,Male,Literature, for the strict artistry with which he has carried on the classical Russian traditions in prose writing ,Russia,,
+1934,Luigi Pirandello,1867/06/28,Male,Literature, for his bold and ingenious revival of dramatic and scenic art ,Italy,,
+1936,Eugene Gladstone O'Neill,1888/10/16,Male,Literature," for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy ",United States of America,,
+1937,Roger Martin du Gard,1881/03/23,Male,Literature, for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle <I>Les Thibault</I> ,France,,
+1938,Pearl Buck,1892/06/26,Female,Literature, for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces ,United States of America,,
+1939,Frans Eemil SillanpâˆšÂ§âˆšÂ§,1888/09/16,Male,Literature, for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature ,Finland,,
+1944,Johannes Vilhelm Jensen,1873/01/20,Male,Literature," for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style ",Denmark,,
+1945,Gabriela Mistral,1889/04/07,Female,Literature," for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world ",Chile,,
+1946,Hermann Hesse,1877/07/02,Male,Literature," for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style ",Germany,,
+1947,AndrâˆšÂ© Paul Guillaume Gide,1869/11/22,Male,Literature," for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight ",France,,
+1948,Thomas Stearns Eliot,1888/09/26,Male,Literature," for his outstanding, pioneer contribution to present-day poetry ",United States of America,,
+1949,William Faulkner,1897/09/25,Male,Literature, for his powerful and artistically unique contribution to the modern American novel ,United States of America,,
+1950,Earl (Bertrand Arthur William) Russell,1872/05/18,Male,Literature, in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought ,United Kingdom,,
+1951,PâˆšÂ§r Fabian Lagerkvist,1891/05/23,Male,Literature, for the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind ,Sweden,,
+1952,FranâˆšÃŸois Mauriac,1885/10/11,Male,Literature, for the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life ,France,,
+1953,Sir Winston Leonard Spencer Churchill,1874/11/30,Male,Literature, for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values ,United Kingdom,,
+1954,Ernest Miller Hemingway,1899/07/21,Male,Literature," for his mastery of the art of narrative, most recently demonstrated in <I>The Old Man and the Sea,</I> and for the influence that he has exerted on contemporary style ",United States of America,,
+1955,Halldâˆšâ‰¥r Kiljan Laxness,4/23/1902,Male,Literature, for his vivid epic power which has renewed the great narrative art of Iceland ,Iceland,,
+1956,Juan Ramâˆšâ‰¥n JimâˆšÂ©nez,1881/12/24,Male,Literature," for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity ",Spain,,
+1957,Albert Camus,7/11/1913,Male,Literature," for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times ",Algeria,,
+1958,Boris Leonidovich Pasternak,1890/02/10,Male,Literature, for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition ,Russia,,
+1959,Salvatore Quasimodo,8/20/1901,Male,Literature," for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times ",Italy,,
+1960,Saint-John Perse,1887/05/31,Male,Literature, for the soaring flight and the evocative imagery of his poetry which in a visionary fashion reflects the conditions of our time ,Guadeloupe Island,,
+1961,Ivo Andric,1892/10/10,Male,Literature, for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country ,Bosnia and Herzegovina,,
+1962,John Steinbeck,2/27/1902,Male,Literature," for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception ",United States of America,,
+1963,Giorgos Seferis,3/13/1900,Male,Literature," for his eminent lyrical writing, inspired by a deep feeling for the Hellenic world of culture ",Turkey,,
+1964,Jean-Paul Sartre,6/21/1905,Male,Literature," for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age ",France,,
+1965,Mikhail Aleksandrovich Sholokhov,5/24/1905,Male,Literature," for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people ",Russia,,
+1966,Nelly Sachs,1891/12/10,Female,Literature," for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength ",Germany,,
+1966,Shmuel Yosef Agnon,1888/07/17,Male,Literature, for his profoundly characteristic narrative art with motifs from the life of the Jewish people ,Ukraine,,
+1967,Miguel Angel Asturias,1899/10/19,Male,Literature," for his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America ",Guatemala,,
+1968,Yasunari Kawabata,1899/06/11,Male,Literature," for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind ",Japan,,
+1969,Samuel Beckett,4/13/1906,Male,Literature," for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation ",Ireland,,
+1970,Aleksandr Isayevich Solzhenitsyn,11/12/1918,Male,Literature, for the ethical force with which he has pursued the indispensable traditions of Russian literature ,Russia,,
+1971,Pablo Neruda,12/7/1904,Male,Literature, for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams ,Chile,,
+1972,Heinrich Bâˆšâˆ‚ll,12/21/1917,Male,Literature, for his writing which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature ,Germany,,
+1973,Patrick White,5/28/1912,Male,Literature, for an epic and psychological narrative art which has introduced a new continent into literature ,United Kingdom,,
+1974,Eyvind Johnson,7/29/1900,Male,Literature," for a narrative art, far-seeing in lands and ages, in the service of freedom ",Sweden,,
+1974,Harry Martinson,6/5/1904,Male,Literature, for writings that catch the dewdrop and reflect the cosmos ,Sweden,,
+1975,Eugenio Montale,1896/10/12,Male,Literature," for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions ",Italy,,
+1976,Saul Bellow,10/6/1915,Male,Literature, for the human understanding and subtle analysis of contemporary culture that are combined in his work ,Canada,,
+1977,Vicente Aleixandre,1898/04/26,Male,Literature," for a creative poetic writing which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars ",Spain,,
+1978,Isaac Bashevis Singer,7/14/1904,Male,Literature," for his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life ",Poland,,
+1979,Odysseus Elytis,2/11/1911,Male,Literature," for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness ",Greece,,
+1980,Czeslaw Milosz,6/30/1911,Male,Literature, who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts ,Lithuania,,
+1981,Elias Canetti,7/25/1905,Male,Literature," for writings marked by a broad outlook, a wealth of ideas and artistic power ",Bulgaria,,
+1982,Gabriel Garcâˆšâ‰ a MâˆšÂ°rquez,6/3/1927,Male,Literature," for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts ",Colombia,,
+1983,William Golding,9/19/1911,Male,Literature," for his novels which, with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today ",United Kingdom,,
+1984,Jaroslav Seifert,9/23/1901,Male,Literature," for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man ",Czech Republic,,
+1985,Claude Simon,10/10/1913,Male,Literature, who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition ,Madagascar,,
+1986,Wole Soyinka,7/13/1934,Male,Literature, who in a wide cultural perspective and with poetic overtones fashions the drama of existence ,Nigeria,,
+1987,Joseph Brodsky,5/24/1940,Male,Literature," for an all-embracing authorship, imbued with clarity of thought and poetic intensity ",Russia,,
+1988,Naguib Mahfouz,11/12/1911,Male,Literature," who, through works rich in nuance - now clear-sightedly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind ",Egypt,,
+1989,Camilo JosâˆšÂ© Cela,11/5/1916,Male,Literature," for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability ",Spain,,
+1990,Octavio Paz,3/31/1914,Male,Literature," for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity ",Mexico,,
+1991,Nadine Gordimer,11/20/1923,Female,Literature, who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity ,South Africa,,
+1992,Derek Walcott,1/23/1930,Male,Literature," for a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment ",Saint Lucia,,
+1993,Toni Morrison,2/18/1931,Female,Literature," who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality ",United States of America,,
+1994,Kenzaburo Oe,1/31/1935,Male,Literature," who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today ",Japan,,
+1995,Seamus Heaney,4/13/1939,Male,Literature," for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past ",United Kingdom,,
+1996,Wislawa Szymborska,2/7/1923,Female,Literature, for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality ,Poland,,
+1997,Dario Fo,3/24/1926,Male,Literature, who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden ,Italy,,
+1998,JosâˆšÂ© Saramago,11/16/1922,Male,Literature," who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality ",Portugal,,
+1999,GâˆšÂºnter Grass,10/16/1927,Male,Literature, whose frolicsome black fables portray the forgotten face of history ,Poland,,
+2000,Gao Xingjian,4/1/1940,Male,Literature," for an âˆšÂ¶uvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama ",China,,
+2001,Sir Vidiadhar Surajprasad Naipaul,8/17/1932,Male,Literature, for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories ,Trinidad,,
+2002,Imre KertâˆšÂ©sz,9/11/1929,Male,Literature, for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history ,Hungary,,
+2003,John M. Coetzee,9/2/1940,Male,Literature, who in innumerable guises portrays the surprising involvement of the outsider ,South Africa,,
+2004,Elfriede Jelinek,10/20/1946,Female,Literature, for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power ,Austria,,
+2005,Harold Pinter,10/10/1930,Male,Literature, who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms ,United Kingdom,,
+2006,Orhan Pamuk,7/6/1952,Male,Literature, who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures ,Turkey,,
+2007,Doris Lessing,10/22/1919,Female,Literature," that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny ",Iran,,
+2008,Jean-Marie Gustave Le ClâˆšÂ©zio,4/13/1940,Male,Literature," author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization ",France,,
+2009,Herta MâˆšÂºller,8/17/1953,Female,Literature," who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed ",Romania,,
+2010,Mario Vargas Llosa,3/28/1936,Male,Literature," for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat ",Peru,,
+2011,Tomas Transtrâˆšâˆ‚mer,4/15/1931,Male,Literature," because, through his condensed, translucent images, he gives us fresh access to reality ",Sweden,,
+2012,Mo Yan,2/2/1955,Male,Literature," who with hallucinatory realism merges folk tales, history and the contemporary ",China,,
+2013,Alice Munro,10/7/1931,Female,Literature, master of the contemporary short story ,Canada,,
+2014,Patrick Modiano,7/30/1945,Male,Literature, for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the occupation ,France,,
+2015,Svetlana Alexievich,5/31/1948,Female,Literature," for her polyphonic writings, a monument to suffering and courage in our time ",Ukraine,,
+2016,Bob Dylan,5/24/1941,Male,Literature, for having created new poetic expressions within the great American song tradition ,United States of America,,
+2017,Kazuo Ishiguro,8/11/1954,Male,Literature," who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world ",Japan,,
+2018,Olga Tokarczuk,1/29/1962,Female,Literature, for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life ,Poland,,
+2019,Peter Handke,6/12/1942,Male,Literature, for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience ,Austria,,
+2020,Louise GlâˆšÂºck,4/22/1943,Female,Literature, for her unmistakable poetic voice that with austere beauty makes individual existence universal ,United States of America,,
+2021,Abdulrazak Gurnah,12/20/1948,Male,Literature,for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents.,Â Sultanate of ZanzibarÂ (Moved to United Kingdom),,
+1901,Emil Adolf von Behring,1854/03/15,Male,Medicine," for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths ",Poland,Marburg University,"Marburg, Germany"
+1902,Ronald Ross,1857/05/13,Male,Medicine," for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it ",India,University College London,"Liverpool, United Kingdom"
+1903,Niels Ryberg Finsen,1860/12/15,Male,Medicine," in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science ",Denmark,Finsen Medical Light Institute,"Copenhagen, Denmark"
+1904,Ivan Petrovich Pavlov,1849/09/14,Male,Medicine," in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged ",Russia,Military Medical Academy,"St. Petersburg, Russia"
+1905,Robert Koch,1843/12/11,Male,Medicine, for his investigations and discoveries in relation to tuberculosis ,Germany,Institute for Infectious Diseases,"Berlin, Germany"
+1906,Camillo Golgi,1843/07/07,Male,Medicine, in recognition of their work on the structure of the nervous system ,Italy,Pavia University,"Pavia, Italy"
+1906,Santiago Ramâˆšâ‰¥n y Cajal,1852/05/01,Male,Medicine, in recognition of their work on the structure of the nervous system ,Spain,Madrid University,"Madrid, Spain"
+1907,Charles Louis Alphonse Laveran,1845/06/18,Male,Medicine, in recognition of his work on the role played by protozoa in causing diseases ,France,Institut Pasteur,"Paris, France"
+1908,Ilya Ilyich Mechnikov,1845/05/15,Male,Medicine, in recognition of their work on immunity ,Ukraine,Institut Pasteur,"Paris, France"
+1908,Paul Ehrlich,1854/03/14,Male,Medicine, in recognition of their work on immunity ,Poland,Goettingen University,"Gâˆšâˆ‚ttingen, Germany"
+1909,Emil Theodor Kocher,1841/08/25,Male,Medicine," for his work on the physiology, pathology and surgery of the thyroid gland ",Switzerland,Berne University,"Berne, Switzerland"
+1910,Albrecht Kossel,1853/09/16,Male,Medicine," in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances ",Germany,University of Heidelberg,"Heidelberg, Germany"
+1911,Allvar Gullstrand,1862/06/05,Male,Medicine, for his work on the dioptrics of the eye ,Sweden,Uppsala University,"Uppsala, Sweden"
+1912,Alexis Carrel,1873/06/28,Male,Medicine, in recognition of his work on vascular suture and the transplantation of blood vessels and organs ,France,Rockefeller Institute for Medical Research,"New York, NY, United States of America"
+1913,Charles Robert Richet,1850/08/26,Male,Medicine, in recognition of his work on anaphylaxis ,France,Sorbonne University,"Paris, France"
+1914,Robert BâˆšÂ°râˆšÂ°ny,1876/04/22,Male,Medicine, for his work on the physiology and pathology of the vestibular apparatus ,Austria,Vienna University,"Vienna, Austria"
+1919,Jules Bordet,1870/06/13,Male,Medicine, for his discoveries relating to immunity ,Belgium,Brussels University,"Brussels, Belgium"
+1920,Schack August Steenberg Krogh,1874/11/15,Male,Medicine, for his discovery of the capillary motor regulating mechanism ,Denmark,Copenhagen University,"Copenhagen, Denmark"
+1922,Archibald Vivian Hill,1886/09/26,Male,Medicine, for his discovery relating to the production of heat in the muscle ,United Kingdom,London University,"London, United Kingdom"
+1922,Otto Fritz Meyerhof,1884/04/12,Male,Medicine, for his discovery of the fixed relationship between the consumption of oxygen and the metabolism of lactic acid in the muscle ,Germany,Kiel University,"Kiel, Germany"
+1923,Frederick Grant Banting,1891/11/14,Male,Medicine, for the discovery of insulin ,Canada,University of Toronto,"Toronto, Canada"
+1923,John James Rickard Macleod,1876/09/06,Male,Medicine, for the discovery of insulin ,United Kingdom,University of Toronto,"Toronto, Canada"
+1924,Willem Einthoven,1860/05/21,Male,Medicine, for his discovery of the mechanism of the electrocardiogram ,Indonesia,Leiden University,"Leiden, Netherlands"
+1926,Johannes Andreas Grib Fibiger,1867/04/23,Male,Medicine, for his discovery of the Spiroptera carcinoma ,Denmark,Copenhagen University,"Copenhagen, Denmark"
+1927,Julius Wagner-Jauregg,1857/03/07,Male,Medicine, for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica ,Austria,Vienna University,"Vienna, Austria"
+1928,Charles Jules Henri Nicolle,1866/09/21,Male,Medicine, for his work on typhus ,France,Institut Pasteur,"Tunis, Tunisia"
+1929,Christiaan Eijkman,1858/08/11,Male,Medicine, for his discovery of the antineuritic vitamin ,Netherlands,Utrecht University,"Utrecht, Netherlands"
+1929,Sir Frederick Gowland Hopkins,1861/06/20,Male,Medicine, for his discovery of the growth-stimulating vitamins ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1930,Karl Landsteiner,1868/06/14,Male,Medicine, for his discovery of human blood groups ,Austria,Rockefeller Institute for Medical Research,"New York, NY, United States of America"
+1931,Otto Heinrich Warburg,1883/10/08,Male,Medicine, for his discovery of the nature and mode of action of the respiratory enzyme ,Germany,Max-Planck Institut,"Berlin-Dahlem, Germany"
+1932,Edgar Douglas Adrian,1889/11/30,Male,Medicine, for their discoveries regarding the functions of neurons ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1932,Sir Charles Scott Sherrington,1857/11/27,Male,Medicine, for their discoveries regarding the functions of neurons ,United Kingdom,University of Oxford,"Oxford, United Kingdom"
+1933,Thomas Hunt Morgan,1866/09/25,Male,Medicine, for his discoveries concerning the role played by the chromosome in heredity ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1934,George Hoyt Whipple,1878/08/28,Male,Medicine, for their discoveries concerning liver therapy in cases of anaemia ,United States of America,University of Rochester,"Rochester, NY, United States of America"
+1934,George Richards Minot,1885/12/02,Male,Medicine, for their discoveries concerning liver therapy in cases of anaemia ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1934,William Parry Murphy,1892/02/06,Male,Medicine, for their discoveries concerning liver therapy in cases of anaemia ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1935,Hans Spemann,1869/06/27,Male,Medicine, for his discovery of the organizer effect in embryonic development ,Germany,University of Freiburg,"Breisgau, Germany"
+1936,Otto Loewi,1873/06/03,Male,Medicine, for their discoveries relating to chemical transmission of nerve impulses ,Germany,Graz University,"Graz, Austria"
+1936,Sir Henry Hallett Dale,1875/06/09,Male,Medicine, for their discoveries relating to chemical transmission of nerve impulses ,United Kingdom,National Institute for Medical Research,"London, United Kingdom"
+1937,Albert von Szent-Gyâˆšâˆ‚rgyi NagyrâˆšÂ°polt,1893/09/16,Male,Medicine," for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid ",Hungary,Szeged University,"Szeged, Hungary"
+1938,Corneille Jean FranâˆšÃŸois Heymans,1892/03/28,Male,Medicine, for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration ,Belgium,Ghent University,"Ghent, Belgium"
+1939,Gerhard Domagk,1895/10/30,Male,Medicine, for the discovery of the antibacterial effects of prontosil ,Poland,Munster University,"Munster, Germany"
+1943,Edward Adelbert Doisy,1893/11/13,Male,Medicine, for his discovery of the chemical nature of vitamin K ,United States of America,Saint Louis University,"St. Louis, MO, United States of America"
+1943,Henrik Carl Peter Dam,1895/02/21,Male,Medicine, for his discovery of vitamin K ,Denmark,Polytechnic Institute,"Copenhagen, Denmark"
+1944,Herbert Spencer Gasser,1888/07/05,Male,Medicine, for their discoveries relating to the highly differentiated functions of single nerve fibres ,United States of America,Rockefeller Institute for Medical Research,"New York, NY, United States of America"
+1944,Joseph Erlanger,1874/01/05,Male,Medicine, for their discoveries relating to the highly differentiated functions of single nerve fibres ,United States of America,Washington University,"St. Louis, MO, United States of America"
+1945,Ernst Boris Chain,6/19/1906,Male,Medicine, for the discovery of penicillin and its curative effect in various infectious diseases ,Germany,University of Oxford,"Oxford, United Kingdom"
+1945,Sir Alexander Fleming,1881/08/06,Male,Medicine, for the discovery of penicillin and its curative effect in various infectious diseases ,United Kingdom,London University,"London, United Kingdom"
+1945,Sir Howard Walter Florey,1898/09/24,Male,Medicine, for the discovery of penicillin and its curative effect in various infectious diseases ,Australia,University of Oxford,"Oxford, United Kingdom"
+1946,Hermann Joseph Muller,1890/12/21,Male,Medicine, for the discovery of the production of mutations by means of X-ray irradiation ,United States of America,Indiana University,"Bloomington, IN, United States of America"
+1947,Bernardo Alberto Houssay,1887/04/10,Male,Medicine, for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar ,Argentina,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),"Buenos Aires, Argentina"
+1947,Carl Ferdinand Cori,1896/12/05,Male,Medicine, for their discovery of the course of the catalytic conversion of glycogen ,Czech Republic,Washington University,"St. Louis, MO, United States of America"
+1947,"Gerty Theresa Cori, nâˆšÂ©e Radnitz",1896/08/15,Female,Medicine, for their discovery of the course of the catalytic conversion of glycogen ,Czech Republic,Washington University,"St. Louis, MO, United States of America"
+1948,Paul Hermann MâˆšÂºller,1899/01/12,Male,Medicine, for his discovery of the high efficiency of DDT as a contact poison against several arthropods ,Switzerland,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),"Basel, Switzerland"
+1949,Antonio Caetano de Abreu Freire Egas Moniz,1874/11/29,Male,Medicine, for his discovery of the therapeutic value of leucotomy in certain psychoses ,Portugal,University of Lisbon,"Lisbon, Portugal"
+1949,Walter Rudolf Hess,1881/03/17,Male,Medicine, for his discovery of the functional organization of the interbrain as a coordinator of the activities of the internal organs ,Switzerland,University of Zurich,"Zurich, Switzerland"
+1950,Edward Calvin Kendall,1886/03/08,Male,Medicine," for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects ",United States of America,Mayo Clinic,"Rochester, MN, United States of America"
+1950,Philip Showalter Hench,1896/02/28,Male,Medicine," for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects ",United States of America,Mayo Clinic,"Rochester, MN, United States of America"
+1950,Tadeus Reichstein,1897/07/20,Male,Medicine," for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects ",Poland,Basel University,"Basel, Switzerland"
+1951,Max Theiler,1899/01/30,Male,Medicine, for his discoveries concerning yellow fever and how to combat it ,South Africa,"Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation","New York, NY, United States of America"
+1952,Selman Abraham Waksman,1888/07/22,Male,Medicine," for his discovery of streptomycin, the first antibiotic effective against tuberculosis ",Ukraine,Rutgers University,"New Brunswick, NJ, United States of America"
+1953,Fritz Albert Lipmann,1899/06/12,Male,Medicine, for his discovery of co-enzyme A and its importance for intermediary metabolism ,Russia,Harvard Medical School,"Boston, MA, United States of America"
+1953,Hans Adolf Krebs,8/25/1900,Male,Medicine, for his discovery of the citric acid cycle ,Germany,Sheffield University,"Sheffield, United Kingdom"
+1954,Frederick Chapman Robbins,8/25/1916,Male,Medicine, for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue ,United States of America,Western Reserve University,"Cleveland, OH, United States of America"
+1954,John Franklin Enders,1897/02/10,Male,Medicine, for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue ,United States of America,Harvard Medical School,"Boston, MA, United States of America"
+1954,Thomas Huckle Weller,6/15/1915,Male,Medicine, for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue ,United States of America,Children's Medical Center,"Boston, MA, United States of America"
+1955,Axel Hugo Theodor Theorell,6/7/1903,Male,Medicine, for his discoveries concerning the nature and mode of action of oxidation enzymes ,Sweden,Karolinska Institutet,"Stockholm, Sweden"
+1956,AndrâˆšÂ© FrâˆšÂ©dâˆšÂ©ric Cournand,1895/09/24,Male,Medicine, for their discoveries concerning heart catheterization and pathological changes in the circulatory system ,France,Columbia University,"New York, NY, United States of America"
+1956,Dickinson W. Richards,1895/10/30,Male,Medicine, for their discoveries concerning heart catheterization and pathological changes in the circulatory system ,United States of America,Columbia University,"New York, NY, United States of America"
+1956,Werner Forssmann,8/29/1904,Male,Medicine, for their discoveries concerning heart catheterization and pathological changes in the circulatory system ,Germany,Mainz University,"Mainz, Germany"
+1957,Daniel Bovet,3/23/1907,Male,Medicine," for his discoveries relating to synthetic compounds that inhibit the action of certain body substances, and especially their action on the vascular system and the skeletal muscles ",Switzerland,Istituto Superiore di Sanitâˆšâ€  (Chief Institute of Public Health),"Rome, Italy"
+1958,Edward Lawrie Tatum,12/14/1909,Male,Medicine, for their discovery that genes act by regulating definite chemical events ,United States of America,Rockefeller Institute for Medical Research,"New York, NY, United States of America"
+1958,George Wells Beadle,10/22/1903,Male,Medicine, for their discovery that genes act by regulating definite chemical events ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1958,Joshua Lederberg,5/23/1925,Male,Medicine, for his discoveries concerning genetic recombination and the organization of the genetic material of bacteria ,United States of America,University of Wisconsin,"Madison, WI, United States of America"
+1959,Arthur Kornberg,3/3/1918,Male,Medicine, for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1959,Severo Ochoa,9/24/1905,Male,Medicine, for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid ,Spain,New York University,"New York, NY, United States of America"
+1960,Peter Brian Medawar,2/28/1915,Male,Medicine, for discovery of acquired immunological tolerance ,Brazil,University College London,"London, United Kingdom"
+1960,Sir Frank Macfarlane Burnet,1899/09/03,Male,Medicine, for discovery of acquired immunological tolerance ,Australia,Walter and Eliza Hall Institute for Medical Research,"Melbourne, Australia"
+1961,Georg von BâˆšÂ©kâˆšÂ©sy,1899/06/03,Male,Medicine, for his discoveries of the physical mechanism of stimulation within the cochlea ,Hungary,Harvard University,"Cambridge, MA, United States of America"
+1962,Francis Harry Compton Crick,8/6/1916,Male,Medicine, for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material ,United Kingdom,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+1962,James Dewey Watson,6/4/1928,Male,Medicine, for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1962,Maurice Hugh Frederick Wilkins,12/15/1916,Male,Medicine, for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material ,New Zealand,London University,"London, United Kingdom"
+1963,Alan Lloyd Hodgkin,5/2/1914,Male,Medicine, for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1963,Andrew Fielding Huxley,11/22/1917,Male,Medicine, for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane ,United Kingdom,University College London,"London, United Kingdom"
+1963,Sir John Carew Eccles,1/27/1903,Male,Medicine, for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane ,Australia,Australian National University,"Canberra, Australia"
+1964,Feodor Lynen,6/4/1911,Male,Medicine, for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism ,Germany,Max-Planck-Institut,"Munich, Germany"
+1964,Konrad Bloch,1/21/1912,Male,Medicine, for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism ,Poland,Harvard University,"Cambridge, MA, United States of America"
+1965,AndrâˆšÂ© Lwoff,8/5/1902,Male,Medicine, for their discoveries concerning genetic control of enzyme and virus synthesis ,France,Institut Pasteur,"Paris, France"
+1965,FranâˆšÃŸois Jacob,6/17/1920,Male,Medicine, for their discoveries concerning genetic control of enzyme and virus synthesis ,France,Institut Pasteur,"Paris, France"
+1965,Jacques Monod,9/2/1910,Male,Medicine, for their discoveries concerning genetic control of enzyme and virus synthesis ,France,Institut Pasteur,"Paris, France"
+1966,Charles Brenton Huggins,9/22/1901,Male,Medicine, for his discoveries concerning hormonal treatment of prostatic cancer ,Canada,University of Chicago,"Chicago, IL, United States of America"
+1966,Peyton Rous,1879/10/05,Male,Medicine, for his discovery of tumour-inducing viruses ,United States of America,Rockefeller University,"New York, NY, United States of America"
+1967,George Wald,11/18/1906,Male,Medicine, for their discoveries concerning the primary physiological and chemical visual processes in the eye ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1967,Haldan Keffer Hartline,12/22/1903,Male,Medicine, for their discoveries concerning the primary physiological and chemical visual processes in the eye ,United States of America,Rockefeller University,"New York, NY, United States of America"
+1967,Ragnar Granit,10/30/1900,Male,Medicine, for their discoveries concerning the primary physiological and chemical visual processes in the eye ,Finland,Karolinska Institutet,"Stockholm, Sweden"
+1968,Har Gobind Khorana,9/1/1922,Male,Medicine, for their interpretation of the genetic code and its function in protein synthesis ,India,University of Wisconsin,"Madison, WI, United States of America"
+1968,Marshall W. Nirenberg,10/4/1927,Male,Medicine, for their interpretation of the genetic code and its function in protein synthesis ,United States of America,National Institutes of Health,"Bethesda, MD, United States of America"
+1968,Robert W. Holley,1/28/1922,Male,Medicine, for their interpretation of the genetic code and its function in protein synthesis ,United States of America,Cornell University,"Ithaca, NY, United States of America"
+1969,Alfred D. Hershey,4/12/1908,Male,Medicine, for their discoveries concerning the replication mechanism and the genetic structure of viruses ,United States of America,Carnegie Institution of Washington,"New York, NY, United States of America"
+1969,Max DelbrâˆšÂºck,4/9/1906,Male,Medicine, for their discoveries concerning the replication mechanism and the genetic structure of viruses ,Germany,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1969,Salvador E. Luria,8/13/1912,Male,Medicine, for their discoveries concerning the replication mechanism and the genetic structure of viruses ,Italy,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1970,Julius Axelrod,5/30/1912,Male,Medicine," for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation ",United States of America,National Institutes of Health,"Bethesda, MD, United States of America"
+1970,Sir Bernard Katz,3/26/1911,Male,Medicine," for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation ",Germany,University College London,"London, United Kingdom"
+1970,Ulf von Euler,7/2/1905,Male,Medicine," for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation ",Sweden,Karolinska Institutet,"Stockholm, Sweden"
+1971,"Earl W. Sutherland, Jr.",11/19/1915,Male,Medicine, for his discoveries concerning the mechanisms of the action of hormones ,United States of America,Vanderbilt University,"Nashville, TN, United States of America"
+1972,Gerald M. Edelman,1/7/1929,Male,Medicine, for their discoveries concerning the chemical structure of antibodies ,United States of America,Rockefeller University,"New York, NY, United States of America"
+1972,Rodney R. Porter,8/10/1917,Male,Medicine, for their discoveries concerning the chemical structure of antibodies ,United Kingdom,University of Oxford,"Oxford, United Kingdom"
+1973,Karl von Frisch,1886/11/20,Male,Medicine, for their discoveries concerning organization and elicitation of individual and social behaviour patterns ,Austria,Munich University,"Munich, Germany"
+1973,Konrad Lorenz,7/11/1903,Male,Medicine, for their discoveries concerning organization and elicitation of individual and social behaviour patterns ,Austria,"Konrad-Lorenz-Institut der âˆšÃ±sterreichischen Akademie der WissenÂ¬â‰ schaften, Forschungsstelle fâˆšÂºr Ethologie","Altenberg; GrâˆšÂºnau im Almtal, Austria"
+1973,Nikolaas Tinbergen,4/15/1907,Male,Medicine, for their discoveries concerning organization and elicitation of individual and social behaviour patterns ,Netherlands,University of Oxford,"Oxford, United Kingdom"
+1974,Albert Claude,1898/08/24,Male,Medicine, for their discoveries concerning the structural and functional organization of the cell ,Belgium,UniversitâˆšÂ© Catholique de Louvain,"Louvain, Belgium"
+1974,Christian de Duve,2/10/1917,Male,Medicine, for their discoveries concerning the structural and functional organization of the cell ,United Kingdom,Rockefeller University,"New York, NY, United States of America"
+1974,George E. Palade,11/19/1912,Male,Medicine, for their discoveries concerning the structural and functional organization of the cell ,Romania,Yale University,"New Haven, CT, United States of America"
+1975,David Baltimore,7/3/1938,Male,Medicine, for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1975,Howard Martin Temin,10/12/1934,Male,Medicine, for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell ,United States of America,University of Wisconsin,"Madison, WI, United States of America"
+1975,Renato Dulbecco,2/22/1914,Male,Medicine, for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell ,Italy,Imperial Cancer Research Fund,"London, United Kingdom"
+1976,Baruch S. Blumberg,7/28/1925,Male,Medicine, for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases ,United States of America,The Institute for Cancer Research,"Philadelphia, PA, United States of America"
+1976,D. Carleton Gajdusek,9/9/1923,Male,Medicine, for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases ,United States of America,National Institutes of Health,"Bethesda, MD, United States of America"
+1977,Andrew V. Schally,11/30/1926,Male,Medicine, for their discoveries concerning the peptide hormone production of the brain ,Lithuania,Veterans Administration Hospital,"New Orleans, LA, United States of America"
+1977,Roger Guillemin,11/1/1924,Male,Medicine, for their discoveries concerning the peptide hormone production of the brain ,France,The Salk Institute,"San Diego, CA, United States of America"
+1977,Rosalyn Yalow,7/19/1921,Female,Medicine, for the development of radioimmunoassays of peptide hormones ,United States of America,Veterans Administration Hospital,"New York, NY, United States of America"
+1978,Daniel Nathans,10/30/1928,Male,Medicine, for the discovery of restriction enzymes and their application to problems of molecular genetics ,United States of America,Johns Hopkins University,"Baltimore, MD, United States of America"
+1978,Hamilton O. Smith,8/23/1931,Male,Medicine, for the discovery of restriction enzymes and their application to problems of molecular genetics ,United States of America,Johns Hopkins University,"Baltimore, MD, United States of America"
+1978,Werner Arber,3/6/1929,Male,Medicine, for the discovery of restriction enzymes and their application to problems of molecular genetics ,Switzerland,Biozentrum der UniversitâˆšÂ§t,"Basel, Switzerland"
+1979,Allan M. Cormack,2/23/1924,Male,Medicine, for the development of computer assisted tomography ,South Africa,Tufts University,"Medford, MA, United States of America"
+1979,Godfrey N. Hounsfield,8/28/1919,Male,Medicine, for the development of computer assisted tomography ,United Kingdom,"Central Research Laboratories, EMI","London, United Kingdom"
+1980,Baruj Benacerraf,10/29/1920,Male,Medicine, for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions ,Venezuela,Harvard Medical School,"Boston, MA, United States of America"
+1980,George D. Snell,12/19/1903,Male,Medicine, for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions ,United States of America,Jackson Laboratory,"Bar Harbor, ME, United States of America"
+1980,Jean Dausset,10/19/1916,Male,Medicine, for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions ,France,"UniversitâˆšÂ© de Paris, Laboratoire Immuno-HâˆšÂ©matologie","Paris, France"
+1981,David H. Hubel,2/27/1926,Male,Medicine, for their discoveries concerning information processing in the visual system ,Canada,Harvard Medical School,"Boston, MA, United States of America"
+1981,Roger W. Sperry,8/20/1913,Male,Medicine, for his discoveries concerning the functional specialization of the cerebral hemispheres ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1981,Torsten N. Wiesel,3/6/1924,Male,Medicine, for their discoveries concerning information processing in the visual system ,Sweden,Harvard Medical School,"Boston, MA, United States of America"
+1982,Bengt I. Samuelsson,5/21/1934,Male,Medicine, for their discoveries concerning prostaglandins and related biologically active substances ,Sweden,Karolinska Institutet,"Stockholm, Sweden"
+1982,John R. Vane,3/29/1927,Male,Medicine, for their discoveries concerning prostaglandins and related biologically active substances ,United Kingdom,The Wellcome Research Laboratories,"Beckenham, United Kingdom"
+1982,Sune K. Bergstrâˆšâˆ‚m,10/1/1916,Male,Medicine, for their discoveries concerning prostaglandins and related biologically active substances ,Sweden,Karolinska Institutet,"Stockholm, Sweden"
+1983,Barbara McClintock,6/16/1902,Female,Medicine, for her discovery of mobile genetic elements ,United States of America,Cold Spring Harbor Laboratory,"Cold Spring Harbor, NY, United States of America"
+1984,CâˆšÂ©sar Milstein,8/10/1927,Male,Medicine, for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies ,Argentina,MRC Laboratory of Molecular Biology,"Cambridge, United Kingdom"
+1984,Georges J.F. Kâˆšâˆ‚hler,4/17/1946,Male,Medicine, for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies ,Germany,Basel Institute for Immunology,"Basel, Switzerland"
+1984,Niels K. Jerne,12/23/1911,Male,Medicine, for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies ,United Kingdom,Basel Institute for Immunology,"Basel, Switzerland"
+1985,Joseph L. Goldstein,4/18/1940,Male,Medicine, for their discoveries concerning the regulation of cholesterol metabolism ,United States of America,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX, United States of America"
+1985,Michael S. Brown,4/13/1941,Male,Medicine, for their discoveries concerning the regulation of cholesterol metabolism ,United States of America,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX, United States of America"
+1986,Rita Levi-Montalcini,4/22/1909,Female,Medicine, for their discoveries of growth factors ,Italy,Institute of Cell Biology of the C.N.R.,"Rome, Italy"
+1986,Stanley Cohen,11/17/1922,Male,Medicine, for their discoveries of growth factors ,United States of America,Vanderbilt University,"Nashville, TN, United States of America"
+1987,Susumu Tonegawa,6/9/1939,Male,Medicine, for his discovery of the genetic principle for generation of antibody diversity ,Japan,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1988,George H. Hitchings,4/18/1905,Male,Medicine, for their discoveries of important principles for drug treatment ,United States of America,Wellcome Research Laboratories,"Research Triangle Park, NC, United States of America"
+1988,Gertrude B. Elion,1/23/1918,Female,Medicine, for their discoveries of important principles for drug treatment ,United States of America,Wellcome Research Laboratories,"Research Triangle Park, NC, United States of America"
+1988,Sir James W. Black,6/14/1924,Male,Medicine, for their discoveries of important principles for drug treatment ,United Kingdom,London University,"London, United Kingdom"
+1989,Harold E. Varmus,12/18/1939,Male,Medicine, for their discovery of the cellular origin of retroviral oncogenes ,United States of America,University of California,"San Francisco, CA, United States of America"
+1989,J. Michael Bishop,2/22/1936,Male,Medicine, for their discovery of the cellular origin of retroviral oncogenes ,United States of America,University of California,"San Francisco, CA, United States of America"
+1990,E. Donnall Thomas,3/15/1920,Male,Medicine, for their discoveries concerning organ and cell transplantation in the treatment of human disease ,United States of America,Fred Hutchinson Cancer Research Center,"Seattle, WA, United States of America"
+1990,Joseph E. Murray,1/4/1919,Male,Medicine, for their discoveries concerning organ and cell transplantation in the treatment of human disease ,United States of America,Brigham and Women's Hospital,"Boston, MA, United States of America"
+1991,Bert Sakmann,12/6/1942,Male,Medicine, for their discoveries concerning the function of single ion channels in cells ,Germany,Max-Planck-Institut,"Heidelberg, Germany"
+1991,Erwin Neher,3/20/1944,Male,Medicine, for their discoveries concerning the function of single ion channels in cells ,Germany,Max-Planck-Institut,"Gâˆšâˆ‚ttingen, Germany"
+1992,Edmond H. Fischer,6/4/1920,Male,Medicine, for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism ,China,University of Washington,"Seattle, WA, United States of America"
+1992,Edwin G. Krebs,6/6/1918,Male,Medicine, for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism ,United States of America,University of Washington,"Seattle, WA, United States of America"
+1993,Phillip A. Sharp,6/6/1944,Male,Medicine, for their discoveries of split genes ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1993,Richard J. Roberts,6/9/1943,Male,Medicine, for their discoveries of split genes ,United Kingdom,New England Biolabs,"Beverly, MA, United States of America"
+1994,Alfred G. Gilman,1/7/1941,Male,Medicine, for their discovery of G-proteins and the role of these proteins in signal transduction in cells ,United States of America,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX, United States of America"
+1994,Martin Rodbell,1/12/1925,Male,Medicine, for their discovery of G-proteins and the role of these proteins in signal transduction in cells ,United States of America,National Institute of Environmental Health Sciences,"Research Triangle Park, NC, United States of America"
+1995,Christiane NâˆšÂºsslein-Volhard,10/20/1942,Female,Medicine, for their discoveries concerning the genetic control of early embryonic development ,Germany,Max-Planck-Institut,"TâˆšÂºbingen, Germany"
+1995,Edward B. Lewis,5/20/1918,Male,Medicine, for their discoveries concerning the genetic control of early embryonic development ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1995,Eric F. Wieschaus,8/6/1947,Male,Medicine, for their discoveries concerning the genetic control of early embryonic development ,United States of America,Princeton University,"Princeton, NJ, United States of America"
+1996,Peter C. Doherty,10/15/1940,Male,Medicine, for their discoveries concerning the specificity of the cell mediated immune defence ,Australia,St. Jude Children's Research Hospital,"Memphis, TN, United States of America"
+1996,Rolf M. Zinkernagel,6/1/1944,Male,Medicine, for their discoveries concerning the specificity of the cell mediated immune defence ,Switzerland,University of Zurich,"Zurich, Switzerland"
+1997,Stanley B. Prusiner,5/28/1942,Male,Medicine, for his discovery of Prions - a new biological principle of infection ,United States of America,University of California,"San Francisco, CA, United States of America"
+1998,Ferid Murad,9/14/1936,Male,Medicine, for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system ,United States of America,University of Texas,"Houston, TX, United States of America"
+1998,Louis J. Ignarro,5/31/1941,Male,Medicine, for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system ,United States of America,University of California,"Los Angeles, CA, United States of America"
+1998,Robert F. Furchgott,4/6/1916,Male,Medicine, for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system ,United States of America,SUNY Health Science Center,"New York, NY, United States of America"
+1999,GâˆšÂºnter Blobel,5/21/1936,Male,Medicine, for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell ,Poland,Rockefeller University,"New York, NY, United States of America"
+2000,Arvid Carlsson,1/25/1923,Male,Medicine, for their discoveries concerning signal transduction in the nervous system ,Sweden,Gâˆšâˆ‚teborg University,"Gothenburg, Sweden"
+2000,Eric R. Kandel,7/11/1929,Male,Medicine, for their discoveries concerning signal transduction in the nervous system ,Austria,Columbia University,"New York, NY, United States of America"
+2000,Paul Greengard,11/12/1925,Male,Medicine, for their discoveries concerning signal transduction in the nervous system ,United States of America,Rockefeller University,"New York, NY, United States of America"
+2001,Leland H. Hartwell,10/30/1939,Male,Medicine, for their discoveries of key regulators of the cell cycle ,United States of America,Fred Hutchinson Cancer Research Center,"Seattle, WA, United States of America"
+2001,Sir Paul M. Nurse,1/25/1949,Male,Medicine, for their discoveries of key regulators of the cell cycle ,United Kingdom,Imperial Cancer Research Fund,"London, United Kingdom"
+2001,Tim Hunt,2/19/1943,Male,Medicine, for their discoveries of key regulators of the cell cycle ,United Kingdom,Imperial Cancer Research Fund,"London, United Kingdom"
+2002,H. Robert Horvitz,8/5/1947,Male,Medicine, for their discoveries concerning genetic regulation of organ development and programmed cell death' ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+2002,John E. Sulston,3/27/1942,Male,Medicine, for their discoveries concerning genetic regulation of organ development and programmed cell death' ,United Kingdom,The Wellcome Trust Sanger Institute,"Cambridge, United Kingdom"
+2002,Sydney Brenner,1/13/1927,Male,Medicine, for their discoveries concerning genetic regulation of organ development and programmed cell death' ,South Africa,The Molecular Sciences Institute,"Berkeley, CA, United States of America"
+2003,Paul C. Lauterbur,6/5/1929,Male,Medicine, for their discoveries concerning magnetic resonance imaging ,United States of America,University of Illinois,"Urbana, IL, United States of America"
+2003,Sir Peter Mansfield,9/10/1933,Male,Medicine, for their discoveries concerning magnetic resonance imaging ,United Kingdom,"University of Nottingham, School of Physics and Astronomy","Nottingham, United Kingdom"
+2004,Linda B. Buck,1/29/1947,Female,Medicine, for their discoveries of odorant receptors and the organization of the olfactory system ,United States of America,Fred Hutchinson Cancer Research Center,"Seattle, WA, United States of America"
+2004,Richard Axel,2/7/1946,Male,Medicine, for their discoveries of odorant receptors and the organization of the olfactory system ,United States of America,Columbia University,"New York, NY, United States of America"
+2005,Barry J. Marshall,9/30/1951,Male,Medicine, for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease ,Australia,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre","Nedlands, Australia"
+2005,J. Robin Warren,11/6/1937,Male,Medicine, for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease ,Australia,,"Perth, Australia"
+2006,Andrew Z. Fire,4/27/1959,Male,Medicine, for their discovery of RNA interference - gene silencing by double-stranded RNA ,United States of America,Stanford University,"Stanford, CA, United States of America"
+2006,Craig C. Mello,10/19/1960,Male,Medicine, for their discovery of RNA interference - gene silencing by double-stranded RNA ,United States of America,University of Massachusetts Medical School,"Worcester, MA, United States of America"
+2007,Mario R. Capecchi,6/10/1937,Male,Medicine, for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells ,Italy,University of Utah,"Salt Lake City, UT, United States of America"
+2007,Oliver Smithies,6/23/1925,Male,Medicine, for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells ,United Kingdom,University of North Carolina,"Chapel Hill, NC, United States of America"
+2007,Sir Martin J. Evans,1/1/1941,Male,Medicine, for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells ,United Kingdom,Cardiff University,"Cardiff, United Kingdom"
+2008,FranâˆšÃŸoise BarrâˆšÂ©-Sinoussi,7/30/1947,Female,Medicine, for their discovery of human immunodeficiency virus ,France,Institut Pasteur,"Paris, France"
+2008,Harald zur Hausen,11/3/1936,Male,Medicine, for his discovery of human papilloma viruses causing cervical cancer ,Germany,German Cancer Research Center,"Heidelberg, Germany"
+2008,Luc Montagnier,8/18/1932,Male,Medicine, for their discovery of human immunodeficiency virus ,France,World Foundation for AIDS Research and Prevention,"Paris, France"
+2009,Carol W. Greider,4/15/1961,Female,Medicine, for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase ,United States of America,Johns Hopkins University,"Baltimore, MD, United States of America"
+2009,Elizabeth H. Blackburn,11/26/1948,Female,Medicine, for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase ,Australia,University of California,"San Francisco, CA, United States of America"
+2009,Jack W. Szostak,9/11/1952,Male,Medicine, for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase ,United Kingdom,Harvard Medical School,"Boston, MA, United States of America"
+2010,Robert G. Edwards,9/27/1925,Male,Medicine, for the development of in vitro fertilization ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+2011,Bruce A. Beutler,12/29/1957,Male,Medicine, for their discoveries concerning the activation of innate immunity ,United States of America,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX, United States of America"
+2011,Jules A. Hoffmann,2/8/1941,Male,Medicine, for their discoveries concerning the activation of innate immunity ,Luxembourg,University of Strasbourg,"Strasbourg, France"
+2011,Ralph M. Steinman,1/14/1943,Male,Medicine, for his discovery of the dendritic cell and its role in adaptive immunity ,Canada,Rockefeller University,"New York, NY, United States of America"
+2012,Shinya Yamanaka,4/9/1962,Male,Medicine, for the discovery that mature cells can be reprogrammed to become pluripotent ,Japan,Kyoto University,"Kyoto, Japan"
+2012,Sir John B. Gurdon,2/10/1933,Male,Medicine, for the discovery that mature cells can be reprogrammed to become pluripotent ,United Kingdom,Gurdon Institute,"Cambridge, United Kingdom"
+2013,James E. Rothman,3/11/1950,Male,Medicine," for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells ",United States of America,Yale University,"New Haven, CT, United States of America"
+2013,Randy W. Schekman,12/30/1948,Male,Medicine," for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells ",United States of America,University of California,"Berkeley, CA, United States of America"
+2013,Thomas C. SâˆšÂºdhof,12/22/1955,Male,Medicine," for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells ",Germany,Stanford University,"Stanford, CA, United States of America"
+2014,Edvard I. Moser,4/27/1962,Male,Medicine, for their discoveries of cells that constitute a positioning system in the brain ,Norway,Norwegian University of Science and Technology (NTNU),"Trondheim, Norway"
+2014,John O'Keefe,11/18/1939,Male,Medicine, for their discoveries of cells that constitute a positioning system in the brain ,United States of America,University College London,"London, United Kingdom"
+2014,May-Britt Moser,4/1/1963,Female,Medicine, for their discoveries of cells that constitute a positioning system in the brain ,Norway,Norwegian University of Science and Technology (NTNU),"Trondheim, Norway"
+2015,Satoshi â‰ˆÃ¥mura,12/7/1935,Male,Medicine, for their discoveries concerning a novel therapy against infections caused by roundworm parasites ,Japan,Kitasato University,"Tokyo, Japan"
+2015,William C. Campbell,6/28/1930,Male,Medicine, for their discoveries concerning a novel therapy against infections caused by roundworm parasites ,Ireland,Drew University,"Madison, NJ, United States of America"
+2015,Youyou Tu,12/30/1930,Female,Medicine, for her discoveries concerning a novel therapy against Malaria ,China,China Academy of Traditional Chinese Medicine,"Beijing, China"
+2016,Yoshinori Ohsumi,9/2/1945,Male,Medicine, for his discoveries of mechanisms for autophagy ,Japan,Tokyo Institute of Technology,"Tokyo, Japan"
+2017,Jeffrey C. Hall,3/5/1945,Male,Medicine, for their discoveries of molecular mechanisms controlling the circadian rhythm ,United States of America,University of Maine,"Maine ME, United States of America"
+2017,Michael Rosbash,7/3/1944,Male,Medicine, for their discoveries of molecular mechanisms controlling the circadian rhythm ,United States of America,Brandeis University,"Waltham MA, United States of America"
+2017,Michael W. Young,3/28/1949,Male,Medicine, for their discoveries of molecular mechanisms controlling the circadian rhythm ,United States of America,Rockefeller University,"New York, NY, United States of America"
+2018,James P. Allison,7/8/1948,Male,Medicine, for their discovery of cancer therapy by inhibition of negative immune regulation ,United States of America,Parker Institute for Cancer Immunotherapy,"San Francisco, CA, United States of America"
+2018,Tasuku Honjo,1/27/1942,Male,Medicine, for their discovery of cancer therapy by inhibition of negative immune regulation ,Japan,Kyoto University,"Kyoto, Japan"
+2019,Gregg Semenza,12/7/1956,Male,Medicine, for their discoveries of how cells sense and adapt to oxygen availability ,United States of America,Johns Hopkins University,"Baltimore, MD, United States of America"
+2019,Peter Ratcliffe,5/14/1954,Male,Medicine, for their discoveries of how cells sense and adapt to oxygen availability ,United Kingdom,University of Oxford,"Oxford, United Kingdom"
+2019,William Kaelin,11/23/1957,Male,Medicine, for their discoveries of how cells sense and adapt to oxygen availability ,United States of America,Harvard Medical School,"Boston, MA, United States of America"
+2020,Charles M. Rice,8/25/1952,Male,Medicine, for the discovery of Hepatitis C virus ,United States of America,Rockefeller University,"New York, NY, United States of America"
+2020,Harvey J. Alter,12/9/1935,Male,Medicine, for the discovery of Hepatitis C virus ,United States of America,National Institutes of Health,"Bethesda, MD, United States of America"
+2020,Michael Houghton,2/7/1949,Male,Medicine, for the discovery of Hepatitis C virus ,United Kingdom,University of Alberta,"Edmonton, Canada"
+2021,David Julius,4/11/1955,Male,Medicine,for their discoveries of receptors for temperature and touch,United States of America,University of California,"San Francisco, CA, USA"
+2021,Ardem Patapoutian,2/10/1967,Male,Medicine,for their discoveries of receptors for temperature and touch,Lebanon,"Â Howard Hughes Medical Institute, Scripps Research","La Jolla, CA, USA"
+1901,FrâˆšÂ©dâˆšÂ©ric Passy,1822/05/20,Male,Peace,,France,,
+1901,Jean Henry Dunant,1828/05/08,Male,Peace,,Switzerland,,
+1902,Charles Albert Gobat,1843/05/21,Male,Peace,,Switzerland,,
+1902,âˆšÃ¢lie Ducommun,1833/02/19,Male,Peace,,Switzerland,,
+1903,William Randal Cremer,1828/03/18,Male,Peace,,United Kingdom,,
+1904,Institut de droit international (Institute of International Law),,,Peace,,,,
+1905,"Baroness Bertha Sophie Felicita von Suttner, nâˆšÂ©e Countess Kinsky von Chinic und Tettau",1843/06/09,Female,Peace,,Czech Republic,,
+1906,Theodore Roosevelt,1858/10/27,Male,Peace,,United States of America,,
+1907,Ernesto Teodoro Moneta,1833/09/20,Male,Peace,,Italy,,
+1907,Louis Renault,1843/05/21,Male,Peace,,France,Sorbonne University,"Paris, France"
+1908,Fredrik Bajer,1837/04/21,Male,Peace,,Denmark,,
+1908,Klas Pontus Arnoldson,1844/10/27,Male,Peace,,Sweden,,
+1909,Auguste Marie FranâˆšÃŸois Beernaert,1829/07/26,Male,Peace,,Belgium,,
+1909,"Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque",1852/11/22,Male,Peace,,France,,
+1910,Bureau international permanent de la Paix (Permanent International Peace Bureau),,,Peace,,,,
+1911,Alfred Hermann Fried,1864/11/11,Male,Peace,,Austria,,
+1911,Tobias Michael Carel Asser,1838/04/28,Male,Peace,,Netherlands,,
+1912,Elihu Root,1845/02/15,Male,Peace,,United States of America,,
+1913,Henri La Fontaine,1854/04/22,Male,Peace,,Belgium,,
+1917,ComitâˆšÂ© international de la Croix Rouge (International Committee of the Red Cross),,,Peace,,,,
+1919,Thomas Woodrow Wilson,1856/12/28,Male,Peace,,United States of America,,
+1920,LâˆšÂ©on Victor Auguste Bourgeois,1851/05/21,Male,Peace,,France,,
+1921,Christian Lous Lange,1869/09/17,Male,Peace,,Norway,,
+1921,Karl Hjalmar Branting,1860/11/23,Male,Peace,,Sweden,,
+1922,Fridtjof Nansen,1861/10/10,Male,Peace,,Norway,,
+1925,Charles Gates Dawes,1865/08/27,Male,Peace,,United States of America,,
+1925,Sir Austen Chamberlain,1863/10/16,Male,Peace,,United Kingdom,,
+1926,Aristide Briand,1862/03/28,Male,Peace,,France,,
+1926,Gustav Stresemann,1878/05/10,Male,Peace,,Germany,,
+1927,Ferdinand Buisson,1841/12/20,Male,Peace,,France,,
+1927,Ludwig Quidde,1858/03/23,Male,Peace,,Germany,,
+1929,Frank Billings Kellogg,1856/12/22,Male,Peace,,United States of America,,
+1930,Lars Olof Jonathan (Nathan) Sâˆšâˆ‚derblom,1866/01/15,Male,Peace,,Sweden,,
+1931,Jane Addams,1860/09/06,Female,Peace,,United States of America,,
+1931,Nicholas Murray Butler,1862/04/02,Male,Peace,,United States of America,Columbia University,"New York, NY, United States of America"
+1933,Sir Norman Angell (Ralph Lane),1872/12/26,Male,Peace,,United Kingdom,,
+1934,Arthur Henderson,1863/09/13,Male,Peace,,United Kingdom,,
+1935,Carl von Ossietzky,1889/10/03,Male,Peace,,Germany,,
+1936,Carlos Saavedra Lamas,1878/11/01,Male,Peace,,Argentina,,
+1937,"Cecil of Chelwood, Viscount (Lord Edgar Algernon Robert Gascoyne Cecil)",1864/09/14,Male,Peace,,United Kingdom,,
+1938,Office international Nansen pour les RâˆšÂ©fugiâˆšÂ©s (Nansen International Office for Refugees),,,Peace,,,,
+1944,ComitâˆšÂ© international de la Croix Rouge (International Committee of the Red Cross),,,Peace,,,,
+1945,Cordell Hull,1871/10/02,Male,Peace,,United States of America,,
+1946,Emily Greene Balch,1867/01/08,Female,Peace,,United States of America,,
+1946,John Raleigh Mott,1865/05/25,Male,Peace,,United States of America,,
+1947,American Friends Service Committee (The Quakers),,,Peace,,,,
+1947,Friends Service Council (The Quakers),,,Peace,,,,
+1949,Lord (John) Boyd Orr of Brechin,1880/09/23,Male,Peace,,United Kingdom,,
+1950,Ralph Bunche,7/8/1904,Male,Peace,,United States of America,Harvard University,
+1951,LâˆšÂ©on Jouhaux,1879/07/01,Male,Peace,,France,,
+1952,Albert Schweitzer,1875/01/14,Male,Peace,,France,,
+1953,George Catlett Marshall,1880/12/31,Male,Peace,,United States of America,,
+1954,Office of the United Nations High Commissioner for Refugees (UNHCR),,,Peace,,,,
+1957,Lester Bowles Pearson,1897/04/23,Male,Peace,,Canada,,
+1958,Georges Pire,10/2/1910,Male,Peace,,Belgium,,
+1959,Philip J. Noel-Baker,1889/11/01,Male,Peace,,United Kingdom,,
+1960,Albert John Lutuli,1898/01/01,Male,Peace,,Zimbabwe,,
+1961,Dag Hjalmar Agne Carl Hammarskjâˆšâˆ‚ld,7/29/1905,Male,Peace,,Sweden,,
+1962,Linus Carl Pauling,2/28/1901,Male,Peace,,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1963,ComitâˆšÂ© international de la Croix Rouge (International Committee of the Red Cross),,,Peace,,,,
+1963,Ligue des SociâˆšÂ©tâˆšÂ©s de la Croix-Rouge (League of Red Cross Societies),,,Peace,,,,
+1964,Martin Luther King Jr.,1/15/1929,Male,Peace,,United States of America,,
+1965,United Nations Children's Fund (UNICEF),,,Peace,,,,
+1968,RenâˆšÂ© Cassin,1887/10/05,Male,Peace,,France,,
+1969,International Labour Organization (I.L.O.),,,Peace,,,,
+1970,Norman E. Borlaug,3/25/1914,Male,Peace,,United States of America,,
+1971,Willy Brandt,12/18/1913,Male,Peace,,Germany,,
+1973,Henry A. Kissinger,5/27/1923,Male,Peace,,Germany,,
+1973,Le Duc Tho,10/14/1911,Male,Peace,,Vietnam,,
+1974,Eisaku Sato,3/27/1901,Male,Peace,,Japan,,
+1974,SeâˆšÂ°n MacBride,1/26/1904,Male,Peace,,France,,
+1975,Andrei Dmitrievich Sakharov,5/21/1921,Male,Peace,,Russia,,
+1976,Betty Williams,5/22/1943,Female,Peace,,United Kingdom,,
+1976,Mairead Corrigan,1/27/1944,Female,Peace,,United Kingdom,,
+1977,Amnesty International,,,Peace,,,,
+1978,Menachem Begin,8/16/1913,Male,Peace,,Belarus,,
+1978,Mohamed Anwar al-Sadat,12/25/1918,Male,Peace,,Egypt,,
+1979,Mother Teresa,8/26/1910,Female,Peace,,Republic of Macedonia,,
+1980,Adolfo PâˆšÂ©rez Esquivel,11/26/1931,Male,Peace,,Argentina,,
+1981,Office of the United Nations High Commissioner for Refugees (UNHCR),,,Peace,,,,
+1982,Alfonso Garcâˆšâ‰ a Robles,3/20/1911,Male,Peace,,Mexico,,
+1982,Alva Myrdal,1/31/1902,Female,Peace,,Sweden,,
+1983,Lech Walesa,9/29/1943,Male,Peace,,Poland,,
+1984,Desmond Mpilo Tutu,7/10/1931,Male,Peace,,South Africa,,
+1985,International Physicians for the Prevention of Nuclear War,,,Peace,,,,
+1986,Elie Wiesel,9/30/1928,Male,Peace,,Romania,,
+1987,Oscar Arias SâˆšÂ°nchez,9/13/1941,Male,Peace," for his work for peace in Central America, efforts which led to the accord signed in Guatemala on August 7 this year ",Costa Rica,,
+1988,United Nations Peacekeeping Forces,,,Peace,,,,
+1989,The 14th Dalai Lama (Tenzin Gyatso),6/7/1935,Male,Peace,,China,,
+1990,Mikhail Sergeyevich Gorbachev,2/3/1931,Male,Peace, for his leading role in the peace process which today characterizes important parts of the international community ,Russia,,
+1991,Aung San Suu Kyi,6/19/1945,Female,Peace, for her non-violent struggle for democracy and human rights ,Myanmar,,
+1992,Rigoberta Menchâˆšâˆ« Tum,9/1/1959,Female,Peace, in recognition of her work for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples ,Guatemala,,
+1993,Frederik Willem de Klerk,3/18/1936,Male,Peace," for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa ",South Africa,,
+1993,Nelson Mandela,7/18/1918,Male,Peace," for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa ",South Africa,,
+1994,Shimon Peres,8/16/1923,Male,Peace, for their efforts to create peace in the Middle East ,Belarus,,
+1994,Yasser Arafat,8/24/1929,Male,Peace, for their efforts to create peace in the Middle East ,Egypt,,
+1994,Yitzhak Rabin,1/3/1922,Male,Peace, for their efforts to create peace in the Middle East ,Israel,,
+1995,Joseph Rotblat,4/11/1908,Male,Peace," for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms ",Poland,,
+1995,Pugwash Conferences on Science and World Affairs,,,Peace," for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms ",,,
+1996,Carlos Filipe Ximenes Belo,3/2/1948,Male,Peace, for their work towards a just and peaceful solution to the conflict in East Timor ,East Timor,,
+1996,JosâˆšÂ© Ramos-Horta,12/26/1949,Male,Peace, for their work towards a just and peaceful solution to the conflict in East Timor ,East Timor,,
+1997,International Campaign to Ban Landmines (ICBL),,,Peace, for their work for the banning and clearing of anti-personnel mines ,,,
+1997,Jody Williams,9/10/1950,Female,Peace, for their work for the banning and clearing of anti-personnel mines ,United States of America,,
+1998,David Trimble,10/15/1944,Male,Peace, for their efforts to find a peaceful solution to the conflict in Northern Ireland ,United Kingdom,,
+1998,John Hume,1/18/1937,Male,Peace, for their efforts to find a peaceful solution to the conflict in Northern Ireland ,United Kingdom,,
+1999,MâˆšÂ©decins Sans FrontiâˆšÂ®res,,,Peace, in recognition of the organization's pioneering humanitarian work on several continents ,,,
+2000,Kim Dae-jung,3/12/1925,Male,Peace," for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular ",Korea (South Korea),,
+2001,Kofi Annan,8/4/1938,Male,Peace, for their work for a better organized and more peaceful world ,Ghana,,
+2001,United Nations (U.N.),,,Peace, for their work for a better organized and more peaceful world ,,,
+2002,Jimmy Carter,1/10/1924,Male,Peace," for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development ",United States of America,,
+2003,Shirin Ebadi,6/21/1947,Female,Peace, for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children ,Iran,,
+2004,Wangari Muta Maathai,1/4/1940,Female,Peace," for her contribution to sustainable development, democracy and peace ",Kenya,,
+2005,International Atomic Energy Agency (IAEA),,,Peace, for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way ,,,
+2005,Mohamed ElBaradei,6/17/1942,Male,Peace, for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way ,Egypt,,
+2006,Grameen Bank,,,Peace, for their efforts to create economic and social development from below ,,,
+2006,Muhammad Yunus,6/28/1940,Male,Peace, for their efforts to create economic and social development from below ,Bangladesh,,
+2007,Albert Arnold (Al) Gore Jr.,3/31/1948,Male,Peace," for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change ",United States of America,,
+2007,Intergovernmental Panel on Climate Change (IPCC),,,Peace," for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change ",,,
+2008,Martti Ahtisaari,6/23/1937,Male,Peace," for his important efforts, on several continents and over more than three decades, to resolve international conflicts ",Finland,,
+2009,Barack H. Obama,4/8/1961,Male,Peace, for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples ,United States of America,,
+2010,Liu Xiaobo,12/28/1955,Male,Peace, for his long and non-violent struggle for fundamental human rights in China ,China,,
+2011,Ellen Johnson Sirleaf,10/29/1938,Female,Peace, for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work ,Liberia,,
+2011,Leymah Gbowee,1/2/1972,Female,Peace, for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work ,Liberia,,
+2011,Tawakkol Karman,7/2/1979,Female,Peace, for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work ,Yemen,,
+2012,European Union (EU),,,Peace," for over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe ",,,
+2013,Organisation for the Prohibition of Chemical Weapons (OPCW),,,Peace, for its extensive efforts to eliminate chemical weapons ,,,
+2014,Kailash Satyarthi,11/1/1954,Male,Peace, for their struggle against the suppression of children and young people and for the right of all children to education ,India,,
+2014,Malala Yousafzai,12/7/1997,Female,Peace, for their struggle against the suppression of children and young people and for the right of all children to education ,Pakistan,,
+2015,National Dialogue Quartet,,,Peace, for its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011 ,,,
+2016,Juan Manuel Santos,10/8/1951,Male,Peace, for his resolute efforts to bring the country's more than 50-year-long civil war to an end ,Colombia,,
+2017,International Campaign to Abolish Nuclear Weapons (ICAN),,,Peace, for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons ,,,
+2018,Denis Mukwege,1/3/1955,Male,Peace, for their efforts to end the use of sexual violence as a weapon of war and armed conflict ,Democratic Republic of the Congo,,
+2018,Nadia Murad,2/7/1993,Female,Peace, for their efforts to end the use of sexual violence as a weapon of war and armed conflict ,Iraq,,
+2019,Abiy Ahmed Ali,8/15/1976,Male,Peace," for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea ",Ethiopia,,
+2020,World Food Programme (WFP),,,Peace," for its efforts to combat hunger, for its contribution to bettering conditions for peace in conflict-affected areas and for acting as a driving force in efforts to prevent the use of hunger as a weapon of war and conflict ",,,
+2021,Maria Angelita Ressa,2/10/1963,Female,Peace,"for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",Philippines,,
+2021,Dmitry Andreyevich Muratov,10/29/1961,Male,Peace,"for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",Russia,,
+1901,Wilhelm Conrad Râˆšâˆ‚ntgen,1845/03/27,Male,Physics, in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him ,Germany,Munich University,"Munich, Germany"
+1902,Hendrik Antoon Lorentz,1853/07/18,Male,Physics, in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena ,Netherlands,Leiden University,"Leiden, Netherlands"
+1902,Pieter Zeeman,1865/05/25,Male,Physics, in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena ,Netherlands,Amsterdam University,"Amsterdam, Netherlands"
+1903,Antoine Henri Becquerel,1852/12/15,Male,Physics, in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity ,France,âˆšÃ¢cole Polytechnique,"Paris, France"
+1903,"Marie Curie, nâˆšÂ©e Sklodowska",1867/11/07,Female,Physics, in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel ,Poland,,"NA, NA"
+1903,Pierre Curie,1859/05/15,Male,Physics, in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel ,France,âˆšÃ¢cole municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),"Paris, France"
+1904,Lord Rayleigh (John William Strutt),1842/11/12,Male,Physics, for his investigations of the densities of the most important gases and for his discovery of argon in connection with these studies ,United Kingdom,Royal Institution of Great Britain,"London, United Kingdom"
+1905,Philipp Eduard Anton von Lenard,1862/06/07,Male,Physics, for his work on cathode rays ,Slovakia,Kiel University,"Kiel, Germany"
+1906,Joseph John Thomson,1856/12/18,Male,Physics, in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1907,Albert Abraham Michelson,1852/12/19,Male,Physics, for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid ,Poland,University of Chicago,"Chicago, IL, United States of America"
+1908,Gabriel Lippmann,1845/08/16,Male,Physics, for his method of reproducing colours photographically based on the phenomenon of interference ,Luxembourg,Sorbonne University,"Paris, France"
+1909,Guglielmo Marconi,1874/04/25,Male,Physics, in recognition of their contributions to the development of wireless telegraphy ,Italy,Marconi Wireless Telegraph Co. Ltd.,"London, United Kingdom"
+1909,Karl Ferdinand Braun,1850/06/06,Male,Physics, in recognition of their contributions to the development of wireless telegraphy ,Germany,Strasbourg University,"Strasbourg, France"
+1910,Johannes Diderik van der Waals,1837/11/23,Male,Physics, for his work on the equation of state for gases and liquids ,Netherlands,Amsterdam University,"Amsterdam, Netherlands"
+1911,Wilhelm Wien,1864/01/13,Male,Physics, for his discoveries regarding the laws governing the radiation of heat ,Russia,WâˆšÂºrzburg University,"WâˆšÂºrzburg, Germany"
+1912,Nils Gustaf DalâˆšÂ©n,1869/11/30,Male,Physics, for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys ,Sweden,Swedish Gas-Accumulator Co.,"Lidingâˆšâˆ‚-Stockholm, Sweden"
+1913,Heike Kamerlingh Onnes,1853/09/21,Male,Physics," for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium ",Netherlands,Leiden University,"Leiden, Netherlands"
+1914,Max von Laue,1879/10/09,Male,Physics, for his discovery of the diffraction of X-rays by crystals ,Germany,Frankfurt-on-the-Main University,"Frankfurt-on-the-Main, Germany"
+1915,Sir William Henry Bragg,1862/07/02,Male,Physics, for their services in the analysis of crystal structure by means of X-rays ,United Kingdom,University College London,"London, United Kingdom"
+1915,William Lawrence Bragg,1890/03/31,Male,Physics, for their services in the analysis of crystal structure by means of X-rays ,Australia,Victoria University,"Manchester, United Kingdom"
+1917,Charles Glover Barkla,1877/06/07,Male,Physics, for his discovery of the characteristic R&ouml;ntgen radiation of the elements ,United Kingdom,Edinburgh University,"Edinburgh, United Kingdom"
+1918,Max Karl Ernst Ludwig Planck,1858/04/23,Male,Physics, in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta ,Germany,Berlin University,"Berlin, Germany"
+1919,Johannes Stark,1874/04/15,Male,Physics, for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields ,Germany,Greifswald University,"Greifswald, Germany"
+1920,Charles Edouard Guillaume,1861/02/15,Male,Physics, in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys ,Switzerland,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),"SâˆšÂ®vres, France"
+1921,Albert Einstein,1879/03/14,Male,Physics," for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect ",Germany,Max-Planck Institut,"Berlin, Germany"
+1922,Niels Henrik David Bohr,1885/10/07,Male,Physics, for his services in the investigation of the structure of atoms and of the radiation emanating from them ,Denmark,Copenhagen University,"Copenhagen, Denmark"
+1923,Robert Andrews Millikan,1868/03/22,Male,Physics, for his work on the elementary charge of electricity and on the photoelectric effect ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1924,Karl Manne Georg Siegbahn,1886/12/03,Male,Physics, for his discoveries and research in the field of X-ray spectroscopy ,Sweden,Uppsala University,"Uppsala, Sweden"
+1925,Gustav Ludwig Hertz,1887/07/22,Male,Physics, for their discovery of the laws governing the impact of an electron upon an atom ,Germany,Halle University,"Halle, Germany"
+1925,James Franck,1882/08/26,Male,Physics, for their discovery of the laws governing the impact of an electron upon an atom ,Germany,Goettingen University,"Gâˆšâˆ‚ttingen, Germany"
+1926,Jean Baptiste Perrin,1870/09/30,Male,Physics," for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium ",France,Sorbonne University,"Paris, France"
+1927,Arthur Holly Compton,1892/09/10,Male,Physics, for his discovery of the effect named after him ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+1927,Charles Thomson Rees Wilson,1869/02/14,Male,Physics, for his method of making the paths of electrically charged particles visible by condensation of vapour ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1928,Owen Willans Richardson,1879/04/26,Male,Physics, for his work on the thermionic phenomenon and especially for the discovery of the law named after him ,United Kingdom,London University,"London, United Kingdom"
+1929,Prince Louis-Victor Pierre Raymond de Broglie,1892/08/15,Male,Physics, for his discovery of the wave nature of electrons ,France,Sorbonne University,"Paris, France"
+1930,Sir Chandrasekhara Venkata Raman,1888/11/07,Male,Physics, for his work on the scattering of light and for the discovery of the effect named after him ,India,Calcutta University,"Calcutta, India"
+1932,Werner Karl Heisenberg,5/12/1901,Male,Physics," for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen ",Germany,Leipzig University,"Leipzig, Germany"
+1933,Erwin Schrâˆšâˆ‚dinger,1887/08/12,Male,Physics, for the discovery of new productive forms of atomic theory ,Austria,Berlin University,"Berlin, Germany"
+1933,Paul Adrien Maurice Dirac,8/8/1902,Male,Physics, for the discovery of new productive forms of atomic theory ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1935,James Chadwick,1891/10/20,Male,Physics, for the discovery of the neutron ,United Kingdom,Liverpool University,"Liverpool, United Kingdom"
+1936,Carl David Anderson,3/9/1905,Male,Physics, for his discovery of the positron ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1936,Victor Franz Hess,1883/06/24,Male,Physics, for his discovery of cosmic radiation ,Austria,Innsbruck University,"Innsbruck, Austria"
+1937,Clinton Joseph Davisson,1881/10/22,Male,Physics, for their experimental discovery of the diffraction of electrons by crystals ,United States of America,Bell Laboratories,"New York, NY, United States of America"
+1937,George Paget Thomson,1892/05/03,Male,Physics, for their experimental discovery of the diffraction of electrons by crystals ,United Kingdom,London University,"London, United Kingdom"
+1938,Enrico Fermi,9/29/1901,Male,Physics," for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons ",Italy,Rome University,"Rome, Italy"
+1939,Ernest Orlando Lawrence,8/8/1901,Male,Physics," for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements ",United States of America,University of California,"Berkeley, CA, United States of America"
+1943,Otto Stern,1888/02/17,Male,Physics, for his contribution to the development of the molecular ray method and his discovery of the magnetic moment of the proton ,Poland,Carnegie Mellon University,"Pittsburgh, PA, United States of America"
+1944,Isidor Isaac Rabi,1898/07/29,Male,Physics, for his resonance method for recording the magnetic properties of atomic nuclei ,Poland,Columbia University,"New York, NY, United States of America"
+1945,Wolfgang Pauli,4/25/1900,Male,Physics," for the discovery of the Exclusion Principle, also called the Pauli Principle ",Austria,Princeton University,"Princeton, NJ, United States of America"
+1946,Percy Williams Bridgman,1882/04/21,Male,Physics," for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics ",United States of America,Harvard University,"Cambridge, MA, United States of America"
+1947,Sir Edward Victor Appleton,1892/09/06,Male,Physics, for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer ,United Kingdom,Department of Scientific and Industrial Research,"London, United Kingdom"
+1948,Patrick Maynard Stuart Blackett,1897/11/18,Male,Physics," for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation ",United Kingdom,Victoria University,"Manchester, United Kingdom"
+1949,Hideki Yukawa,1/23/1907,Male,Physics, for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces ,Japan,Kyoto University,"Kyoto, Japan"
+1950,Cecil Frank Powell,5/12/1903,Male,Physics, for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method ,United Kingdom,Bristol University,"Bristol, United Kingdom"
+1951,Ernest Thomas Sinton Walton,6/10/1903,Male,Physics, for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles ,Ireland,Trinity College,"Dublin, Ireland"
+1951,Sir John Douglas Cockcroft,1897/05/27,Male,Physics, for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles ,United Kingdom,Atomic Energy Research Establishment,"Harwell, Berkshire, United Kingdom"
+1952,Edward Mills Purcell,8/30/1912,Male,Physics, for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1952,Felix Bloch,10/23/1905,Male,Physics, for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith ,Switzerland,Stanford University,"Stanford, CA, United States of America"
+1953,Frits Zernike,1888/07/16,Male,Physics," for his demonstration of the phase contrast method, especially for his invention of the phase contrast microscope ",Netherlands,Groningen University,"Groningen, Netherlands"
+1954,Max Born,1882/12/11,Male,Physics," for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction ",Poland,Edinburgh University,"Edinburgh, United Kingdom"
+1954,Walther Bothe,1891/01/08,Male,Physics, for the coincidence method and his discoveries made therewith ,Germany,University of Heidelberg,"Heidelberg, Germany"
+1955,Polykarp Kusch,1/26/1911,Male,Physics, for his precision determination of the magnetic moment of the electron ,Germany,Columbia University,"New York, NY, United States of America"
+1955,Willis Eugene Lamb,12/7/1913,Male,Physics, for his discoveries concerning the fine structure of the hydrogen spectrum ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1956,John Bardeen,5/23/1908,Male,Physics, for their researches on semiconductors and their discovery of the transistor effect ,United States of America,University of Illinois,"Urbana, IL, United States of America"
+1956,Walter Houser Brattain,10/2/1902,Male,Physics, for their researches on semiconductors and their discovery of the transistor effect ,China,Bell Laboratories,"Murray Hill, NJ, United States of America"
+1956,William Bradford Shockley,2/13/1910,Male,Physics, for their researches on semiconductors and their discovery of the transistor effect ,United Kingdom,"Semiconductor Laboratory of Beckman Instruments, Inc.","Mountain View, CA, United States of America"
+1957,Chen Ning Yang,9/22/1922,Male,Physics, for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles ,China,Institute for Advanced Study,"Princeton, NJ, United States of America"
+1957,Tsung-Dao (T.D.) Lee,11/24/1926,Male,Physics, for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles ,China,Columbia University,"New York, NY, United States of America"
+1958,Igor Yevgenyevich Tamm,1895/07/08,Male,Physics, for the discovery and the interpretation of the Cherenkov effect ,Russia,University of Moscow,"Moscow, Russia"
+1958,IlÂ¬Â¥ja Mikhailovich Frank,10/23/1908,Male,Physics, for the discovery and the interpretation of the Cherenkov effect ,Russia,University of Moscow,"Moscow, Russia"
+1958,Pavel Alekseyevich Cherenkov,7/28/1904,Male,Physics, for the discovery and the interpretation of the Cherenkov effect ,Russia,P.N. Lebedev Physical Institute,"Moscow, Russia"
+1959,Emilio Gino SegrâˆšÂ®,1/2/1905,Male,Physics, for their discovery of the antiproton ,Italy,University of California,"Berkeley, CA, United States of America"
+1959,Owen Chamberlain,10/7/1920,Male,Physics, for their discovery of the antiproton ,United States of America,University of California,"Berkeley, CA, United States of America"
+1960,Donald Arthur Glaser,9/21/1926,Male,Physics, for the invention of the bubble chamber ,United States of America,University of California,"Berkeley, CA, United States of America"
+1961,Robert Hofstadter,5/2/1915,Male,Physics, for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1961,Rudolf Ludwig Mâˆšâˆ‚ssbauer,1/31/1929,Male,Physics, for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name ,Germany,Technical University,"Munich, Germany"
+1962,Lev Davidovich Landau,1/22/1908,Male,Physics," for his pioneering theories for condensed matter, especially liquid helium ",Azerbaijan,Academy of Sciences,"Moscow, Russia"
+1963,Eugene Paul Wigner,11/17/1902,Male,Physics," for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles ",Hungary,Princeton University,"Princeton, NJ, United States of America"
+1963,J. Hans D. Jensen,6/25/1907,Male,Physics, for their discoveries concerning nuclear shell structure ,Germany,University of Heidelberg,"Heidelberg, Germany"
+1963,Maria Goeppert Mayer,6/28/1906,Female,Physics, for their discoveries concerning nuclear shell structure ,Poland,University of California,"San Diego, CA, United States of America"
+1964,Aleksandr Mikhailovich Prokhorov,11/7/1916,Male,Physics," for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle ",Australia,P.N. Lebedev Physical Institute,"Moscow, Russia"
+1964,Charles Hard Townes,7/28/1915,Male,Physics," for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle ",United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1964,Nicolay Gennadiyevich Basov,12/14/1922,Male,Physics," for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle ",Russia,P.N. Lebedev Physical Institute,"Moscow, Russia"
+1965,Julian Schwinger,12/2/1918,Male,Physics," for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles ",United States of America,Harvard University,"Cambridge, MA, United States of America"
+1965,Richard P. Feynman,11/5/1918,Male,Physics," for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles ",United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1965,Sin-Itiro Tomonaga,3/31/1906,Male,Physics," for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles ",Japan,Tokyo University of Education,"Tokyo, Japan"
+1966,Alfred Kastler,3/5/1902,Male,Physics, for the discovery and development of optical methods for studying Hertzian resonances in atoms ,France,âˆšÃ¢cole Normale SupâˆšÂ©rieure,"Paris, France"
+1967,Hans Albrecht Bethe,2/7/1906,Male,Physics," for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars ",France,Cornell University,"Ithaca, NY, United States of America"
+1968,Luis Walter Alvarez,6/13/1911,Male,Physics," for his decisive contributions to elementary particle physics, in particular the discovery of a large number of resonance states, made possible through his development of the technique of using hydrogen bubble chamber and data analysis ",United States of America,University of California,"Berkeley, CA, United States of America"
+1969,Murray Gell-Mann,9/15/1929,Male,Physics, for his contributions and discoveries concerning the classification of elementary particles and their interactions ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1970,Hannes Olof Gâˆšâˆ‚sta AlfvâˆšÂ©n,5/30/1908,Male,Physics, for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics ,Sweden,Royal Institute of Technology,"Stockholm, Sweden"
+1970,Louis EugâˆšÂ®ne FâˆšÂ©lix NâˆšÂ©el,11/22/1904,Male,Physics, for fundamental work and discoveries concerning antiferromagnetism and ferrimagnetism which have led to important applications in solid state physics ,France,University of Grenoble,"Grenoble, France"
+1971,Dennis Gabor,5/6/1900,Male,Physics, for his invention and development of the holographic method ,Hungary,Imperial College,"London, United Kingdom"
+1972,John Bardeen,5/23/1908,Male,Physics," for their jointly developed theory of superconductivity, usually called the BCS-theory ",United States of America,University of Illinois,"Urbana, IL, United States of America"
+1972,John Robert Schrieffer,5/31/1931,Male,Physics," for their jointly developed theory of superconductivity, usually called the BCS-theory ",United States of America,University of Pennsylvania,"Philadelphia, PA, United States of America"
+1972,Leon Neil Cooper,2/28/1930,Male,Physics," for their jointly developed theory of superconductivity, usually called the BCS-theory ",United States of America,Brown University,"Providence, RI, United States of America"
+1973,Brian David Josephson,4/1/1940,Male,Physics," for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects ",United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1973,Ivar Giaever,5/4/1929,Male,Physics," for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively ",Norway,General Electric Company,"Schenectady, NY, United States of America"
+1973,Leo Esaki,12/3/1925,Male,Physics," for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively ",Japan,IBM Thomas J. Watson Research Center,"Yorktown Heights, NY, United States of America"
+1974,Antony Hewish,11/5/1924,Male,Physics," for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars ",United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1974,Sir Martin Ryle,9/27/1918,Male,Physics," for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars ",United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1975,Aage Niels Bohr,6/19/1922,Male,Physics, for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection ,Denmark,Niels Bohr Institute,"Copenhagen, Denmark"
+1975,Ben Roy Mottelson,9/7/1926,Male,Physics, for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection ,United States of America,Nordita,"Copenhagen, Denmark"
+1975,Leo James Rainwater,9/12/1917,Male,Physics, for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection ,United States of America,Columbia University,"New York, NY, United States of America"
+1976,Burton Richter,3/22/1931,Male,Physics, for their pioneering work in the discovery of a heavy elementary particle of a new kind ,United States of America,Stanford Linear Accelerator Center,"Stanford, CA, United States of America"
+1976,Samuel Chao Chung Ting,1/27/1936,Male,Physics, for their pioneering work in the discovery of a heavy elementary particle of a new kind ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1977,John Hasbrouck van Vleck,1899/03/13,Male,Physics, for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1977,Philip Warren Anderson,12/13/1923,Male,Physics, for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems ,United States of America,Bell Laboratories,"Murray Hill, NJ, United States of America"
+1977,Sir Nevill Francis Mott,9/30/1905,Male,Physics, for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems ,United Kingdom,University of Cambridge,"Cambridge, United Kingdom"
+1978,Arno Allan Penzias,4/26/1933,Male,Physics, for their discovery of cosmic microwave background radiation ,Germany,Bell Laboratories,"Holmdel, NJ, United States of America"
+1978,Pyotr Leonidovich Kapitsa,1894/07/09,Male,Physics, for his basic inventions and discoveries in the area of low-temperature physics ,Russia,Academy of Sciences,"Moscow, Russia"
+1978,Robert Woodrow Wilson,10/1/1936,Male,Physics, for their discovery of cosmic microwave background radiation ,United States of America,Bell Laboratories,"Holmdel, NJ, United States of America"
+1979,Abdus Salam,1/29/1926,Male,Physics," for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current ",Pakistan,International Centre for Theoretical Physics,"Trieste, Italy"
+1979,Sheldon Lee Glashow,5/12/1932,Male,Physics," for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current ",United States of America,Harvard University,"Cambridge, MA, United States of America"
+1979,Steven Weinberg,3/5/1933,Male,Physics," for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current ",United States of America,Harvard University,"Cambridge, MA, United States of America"
+1980,James Watson Cronin,9/29/1931,Male,Physics, for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons ,United States of America,University of Chicago,"Chicago, IL, United States of America"
+1980,Val Logsdon Fitch,10/3/1923,Male,Physics, for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons ,United States of America,Princeton University,"Princeton, NJ, United States of America"
+1981,Arthur Leonard Schawlow,5/5/1921,Male,Physics, for their contribution to the development of laser spectroscopy ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1981,Kai M. Siegbahn,4/20/1918,Male,Physics, for his contribution to the development of high-resolution electron spectroscopy ,Sweden,Uppsala University,"Uppsala, Sweden"
+1981,Nicolaas Bloembergen,11/3/1920,Male,Physics, for their contribution to the development of laser spectroscopy ,Netherlands,Harvard University,"Cambridge, MA, United States of America"
+1982,Kenneth G. Wilson,8/6/1936,Male,Physics, for his theory for critical phenomena in connection with phase transitions ,United States of America,Cornell University,"Ithaca, NY, United States of America"
+1983,Subramanyan Chandrasekhar,10/19/1910,Male,Physics, for his theoretical studies of the physical processes of importance to the structure and evolution of the stars ,Pakistan,University of Chicago,"Chicago, IL, United States of America"
+1983,William Alfred Fowler,9/8/1911,Male,Physics, for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+1984,Carlo Rubbia,3/31/1934,Male,Physics," for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction ",Italy,CERN,"Geneva, Switzerland"
+1984,Simon van der Meer,11/24/1925,Male,Physics," for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction ",Netherlands,CERN,"Geneva, Switzerland"
+1985,Klaus von Klitzing,6/28/1943,Male,Physics, for the discovery of the quantized Hall effect ,Poland,Max-Planck-Institut,"Stuttgart, Germany"
+1986,Ernst Ruska,12/25/1906,Male,Physics," for his fundamental work in electron optics, and for the design of the first electron microscope ",Germany,Fritz-Haber-Institut der Max-Planck-Gesellschaft,"Berlin, Germany"
+1986,Gerd Binnig,7/20/1947,Male,Physics, for their design of the scanning tunneling microscope ,Germany,IBM Zurich Research Laboratory,"RâˆšÂºschlikon, Switzerland"
+1986,Heinrich Rohrer,6/6/1933,Male,Physics, for their design of the scanning tunneling microscope ,Switzerland,IBM Zurich Research Laboratory,"RâˆšÂºschlikon, Switzerland"
+1987,J. Georg Bednorz,5/16/1950,Male,Physics, for their important break-through in the discovery of superconductivity in ceramic materials ,Germany,IBM Zurich Research Laboratory,"RâˆšÂºschlikon, Switzerland"
+1987,K. Alexander MâˆšÂºller,4/20/1927,Male,Physics, for their important break-through in the discovery of superconductivity in ceramic materials ,Switzerland,IBM Zurich Research Laboratory,"RâˆšÂºschlikon, Switzerland"
+1988,Jack Steinberger,5/25/1921,Male,Physics, for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino ,Germany,CERN,"Geneva, Switzerland"
+1988,Leon M. Lederman,7/15/1922,Male,Physics, for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino ,United States of America,Fermi National Accelerator Laboratory,"Batavia, IL, United States of America"
+1988,Melvin Schwartz,2/11/1932,Male,Physics, for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino ,United States of America,"Digital Pathways, Inc.","Mountain View, CA, United States of America"
+1989,Hans G. Dehmelt,9/9/1922,Male,Physics, for the development of the ion trap technique ,Germany,University of Washington,"Seattle, WA, United States of America"
+1989,Norman F. Ramsey,8/27/1915,Male,Physics, for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+1989,Wolfgang Paul,10/8/1913,Male,Physics, for the development of the ion trap technique ,Germany,University of Bonn,"Bonn, Germany"
+1990,Henry W. Kendall,9/12/1926,Male,Physics," for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics ",United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1990,Jerome I. Friedman,3/28/1930,Male,Physics," for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics ",United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1990,Richard E. Taylor,2/11/1929,Male,Physics," for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics ",Canada,Stanford University,"Stanford, CA, United States of America"
+1991,Pierre-Gilles de Gennes,10/24/1932,Male,Physics," for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers ",France,CollâˆšÂ®ge de France,"Paris, France"
+1992,Georges Charpak,1/8/1924,Male,Physics," for his invention and development of particle detectors, in particular the multiwire proportional chamber ",Poland,âˆšÃ¢cole SupâˆšÂ©rieure de Physique et Chimie,"Paris, France"
+1993,Joseph H. Taylor Jr.,3/29/1941,Male,Physics," for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation ",United States of America,Princeton University,"Princeton, NJ, United States of America"
+1993,Russell A. Hulse,11/28/1950,Male,Physics," for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation ",United States of America,Princeton University,"Princeton, NJ, United States of America"
+1994,Bertram N. Brockhouse,7/15/1918,Male,Physics, for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter; for the development of neutron spectroscopy ,Canada,McMaster University,"Hamilton, Ontario, Canada"
+1994,Clifford G. Shull,9/23/1915,Male,Physics, for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter; for the development of the neutron diffraction technique ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+1995,Frederick Reines,3/16/1918,Male,Physics, for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter; for the detection of the neutrino ,United States of America,University of California,"Irvine, CA, United States of America"
+1995,Martin L. Perl,6/24/1927,Male,Physics, for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter; for the discovery of the tau lepton ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1996,David M. Lee,1/20/1931,Male,Physics, for their discovery of superfluidity in helium-3 ,United States of America,Cornell University,"Ithaca, NY, United States of America"
+1996,Douglas D. Osheroff,1/8/1945,Male,Physics, for their discovery of superfluidity in helium-3 ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1996,Robert C. Richardson,6/26/1937,Male,Physics, for their discovery of superfluidity in helium-3 ,United States of America,Cornell University,"Ithaca, NY, United States of America"
+1997,Claude Cohen-Tannoudji,1/4/1933,Male,Physics, for development of methods to cool and trap atoms with laser light ,Algeria,CollâˆšÂ®ge de France,"Paris, France"
+1997,Steven Chu,2/28/1948,Male,Physics, for development of methods to cool and trap atoms with laser light ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1997,William D. Phillips,5/11/1948,Male,Physics, for development of methods to cool and trap atoms with laser light ,United States of America,National Institute of Standards and Technology,"Gaithersburg, MD, United States of America"
+1998,Daniel C. Tsui,2/28/1939,Male,Physics, for their discovery of a new form of quantum fluid with fractionally charged excitations ,China,Princeton University,"Princeton, NJ, United States of America"
+1998,Horst L. Stâˆšâˆ‚rmer,6/4/1949,Male,Physics, for their discovery of a new form of quantum fluid with fractionally charged excitations ,Germany,Columbia University,"New York, NY, United States of America"
+1998,Robert B. Laughlin,1/11/1950,Male,Physics, for their discovery of a new form of quantum fluid with fractionally charged excitations ,United States of America,Stanford University,"Stanford, CA, United States of America"
+1999,Gerardus 't Hooft,5/7/1946,Male,Physics, for elucidating the quantum structure of electroweak interactions in physics ,Netherlands,Utrecht University,"Utrecht, Netherlands"
+1999,Martinus J.G. Veltman,6/27/1931,Male,Physics, for elucidating the quantum structure of electroweak interactions in physics ,Netherlands,,"Bilthoven, Netherlands"
+2000,Herbert Kroemer,8/25/1928,Male,Physics, for basic work on information and communication technology; for developing semiconductor heterostructures used in high-speed- and opto-electronics ,Germany,University of California,"Santa Barbara, CA, United States of America"
+2000,Jack S. Kilby,8/11/1923,Male,Physics, for basic work on information and communication technology; for his part in the invention of the integrated circuit ,United States of America,Texas Instruments,"Dallas, TX, United States of America"
+2000,Zhores I. Alferov,3/15/1930,Male,Physics, for basic work on information and communication technology; for developing semiconductor heterostructures used in high-speed- and opto-electronics ,Belarus,A.F. Ioffe Physico-Technical Institute,"St. Petersburg, Russia"
+2001,Carl E. Wieman,3/26/1951,Male,Physics," for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates ",United States of America,University of Colorado,"Boulder, CO, United States of America"
+2001,Eric A. Cornell,12/19/1961,Male,Physics," for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates ",United States of America,University of Colorado,"Boulder, CO, United States of America"
+2001,Wolfgang Ketterle,10/21/1957,Male,Physics," for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates ",Germany,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+2002,Masatoshi Koshiba,9/19/1926,Male,Physics," for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos ",Japan,University of Tokyo,"Tokyo, Japan"
+2002,Raymond Davis Jr.,10/14/1914,Male,Physics," for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos ",United States of America,University of Pennsylvania,"Philadelphia, PA, United States of America"
+2002,Riccardo Giacconi,6/10/1931,Male,Physics," for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources ",Italy,Associated Universities Inc.,"Washington, DC, United States of America"
+2003,Alexei A. Abrikosov,6/25/1928,Male,Physics, for pioneering contributions to the theory of superconductors and superfluids ,Russia,Argonne National Laboratory,"Argonne, IL, United States of America"
+2003,Anthony J. Leggett,3/26/1938,Male,Physics, for pioneering contributions to the theory of superconductors and superfluids ,United Kingdom,University of Illinois,"Urbana, IL, United States of America"
+2003,Vitaly L. Ginzburg,4/10/1916,Male,Physics, for pioneering contributions to the theory of superconductors and superfluids ,Russia,P.N. Lebedev Physical Institute,"Moscow, Russia"
+2004,David J. Gross,2/19/1941,Male,Physics, for the discovery of asymptotic freedom in the theory of the strong interaction ,United States of America,University of California,"Santa Barbara, CA, United States of America"
+2004,Frank Wilczek,5/15/1951,Male,Physics, for the discovery of asymptotic freedom in the theory of the strong interaction ,United States of America,Massachusetts Institute of Technology (MIT),"Cambridge, MA, United States of America"
+2004,H. David Politzer,8/31/1949,Male,Physics, for the discovery of asymptotic freedom in the theory of the strong interaction ,United States of America,California Institute of Technology (Caltech),"Pasadena, CA, United States of America"
+2005,John L. Hall,8/21/1934,Male,Physics," for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique ",United States of America,University of Colorado,"Boulder, CO, United States of America"
+2005,Roy J. Glauber,1/9/1925,Male,Physics, for his contribution to the quantum theory of optical coherence ,United States of America,Harvard University,"Cambridge, MA, United States of America"
+2005,Theodor W. HâˆšÂ§nsch,10/30/1941,Male,Physics," for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique ",Germany,Max-Planck-Institut,"Garching, Germany"
+2006,George F. Smoot,2/20/1945,Male,Physics, for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation ,United States of America,University of California,"Berkeley, CA, United States of America"
+2006,John C. Mather,7/8/1946,Male,Physics, for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation ,United States of America,NASA Goddard Space Flight Center,"Greenbelt, MD, United States of America"
+2007,Albert Fert,7/3/1938,Male,Physics, for the discovery of Giant Magnetoresistance ,France,UniversitâˆšÂ© Paris-Saclay,"Orsay, France"
+2007,Peter GrâˆšÂºnberg,5/18/1939,Male,Physics, for the discovery of Giant Magnetoresistance ,Czech Republic,Forschungszentrum J&uuml;lich,"J&uuml;lich, Germany"
+2008,Makoto Kobayashi,7/4/1944,Male,Physics, for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature ,Japan,High Energy Accelerator Research Organization (KEK),"Tsukuba, Japan"
+2008,Toshihide Maskawa,7/2/1940,Male,Physics, for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature ,Japan,Kyoto Sangyo University,"Kyoto, Japan"
+2008,Yoichiro Nambu,1/18/1921,Male,Physics, for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics ,Japan,University of Chicago,"Chicago, IL, United States of America"
+2009,Charles Kuen Kao,4/11/1933,Male,Physics, for groundbreaking achievements concerning the transmission of light in fibers for optical communication ,China,Standard Telecommunication Laboratories,"Harlow, United Kingdom"
+2009,George E. Smith,10/5/1930,Male,Physics, for the invention of an imaging semiconductor circuit - the CCD sensor ,United States of America,Bell Laboratories,"Murray Hill, NJ, United States of America"
+2009,Willard S. Boyle,8/19/1924,Male,Physics, for the invention of an imaging semiconductor circuit - the CCD sensor ,Canada,Bell Laboratories,"Murray Hill, NJ, United States of America"
+2010,Andre Geim,10/21/1958,Male,Physics, for groundbreaking experiments regarding the two-dimensional material graphene ,Russia,University of Manchester,"Manchester, United Kingdom"
+2010,Konstantin Novoselov,8/23/1974,Male,Physics, for groundbreaking experiments regarding the two-dimensional material graphene ,Russia,University of Manchester,"Manchester, United Kingdom"
+2011,Adam G. Riess,12/16/1969,Male,Physics, for the discovery of the accelerating expansion of the Universe through observations of distant supernovae ,United States of America,Johns Hopkins University,"Baltimore, MD, United States of America"
+2011,Brian P. Schmidt,2/24/1967,Male,Physics, for the discovery of the accelerating expansion of the Universe through observations of distant supernovae ,United States of America,Australian National University,"Weston Creek, Australia"
+2011,Saul Perlmutter,9/22/1959,Male,Physics, for the discovery of the accelerating expansion of the Universe through observations of distant supernovae ,United States of America,Lawrence Berkeley National Laboratory,"Berkeley, CA, United States of America"
+2012,David J. Wineland,2/24/1944,Male,Physics, for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems ,United States of America,National Institute of Standards and Technology,"Boulder, CO, United States of America"
+2012,Serge Haroche,11/9/1944,Male,Physics, for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems ,Morocco,CollâˆšÂ®ge de France,"Paris, France"
+2013,FranâˆšÃŸois Englert,6/11/1932,Male,Physics," for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider ",Belgium,UniversitâˆšÂ© Libre de Bruxelles,"Brussels, Belgium"
+2013,Peter W. Higgs,5/29/1929,Male,Physics," for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider ",United Kingdom,University of Edinburgh,"Edinburgh, United Kingdom"
+2014,Hiroshi Amano,11/9/1960,Male,Physics, for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources ,Japan,Nagoya University,"Nagoya, Japan"
+2014,Isamu Akasaki,1/30/1929,Male,Physics, for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources ,Japan,Meijo University,"Nagoya, Japan"
+2014,Shuji Nakamura,5/22/1954,Male,Physics, for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources ,Japan,University of California,"Santa Barbara, CA, United States of America"
+2015,Arthur B. McDonald,8/29/1943,Male,Physics," for the discovery of neutrino oscillations, which shows that neutrinos have mass ",Canada,Queen's University,"Kingston, Canada"
+2015,Takaaki Kajita,9/3/1959,Male,Physics," for the discovery of neutrino oscillations, which shows that neutrinos have mass ",Japan,University of Tokyo,"Kashiwa, Japan"
+2016,David J. Thouless,9/21/1934,Male,Physics, for theoretical discoveries of topological phase transitions and topological phases of matter ,United Kingdom,University of Washington,"Seattle, WA, United States of America"
+2016,F. Duncan M. Haldane,9/14/1951,Male,Physics, for theoretical discoveries of topological phase transitions and topological phases of matter ,United Kingdom,Princeton University,"Princeton, NJ, United States of America"
+2016,J. Michael Kosterlitz,6/22/1943,Male,Physics, for theoretical discoveries of topological phase transitions and topological phases of matter ,United Kingdom,Brown University,"Providence, RI, United States of America"
+2017,Barry C. Barish,1/27/1936,Male,Physics, for decisive contributions to the LIGO detector and the observation of gravitational waves ,United States of America,LIGO/VIRGO Collaboration,
+2017,Kip S. Thorne,1/6/1940,Male,Physics, for decisive contributions to the LIGO detector and the observation of gravitational waves ,United States of America,LIGO/VIRGO Collaboration,
+2017,Rainer Weiss,9/29/1932,Male,Physics, for decisive contributions to the LIGO detector and the observation of gravitational waves ,Germany,LIGO/VIRGO Collaboration,
+2018,Arthur Ashkin,2/9/1922,Male,Physics, for the optical tweezers and their application to biological systems ,United States of America,Bell Laboratories,"Holmdel, NJ, United States of America"
+2018,Donna Strickland,5/27/1959,Female,Physics," for their method of generating high-intensity, ultra-short optical pulses ",Canada,University of Waterloo,"Waterloo, Canada"
+2018,GâˆšÂ©rard Mourou,6/22/1944,Male,Physics," for their method of generating high-intensity, ultra-short optical pulses ",France,âˆšÃ¢cole Polytechnique,"Palaiseau, France"
+2019,Didier Queloz,2/23/1966,Male,Physics, for the discovery of an exoplanet orbiting a solar-type star ,Switzerland,University of Geneva,"Geneva, Switzerland"
+2019,James Peebles,4/25/1935,Male,Physics, for theoretical discoveries in physical cosmology ,Canada,Princeton University,"Princeton, NJ, United States of America"
+2019,Michel Mayor,12/1/1942,Male,Physics, for the discovery of an exoplanet orbiting a solar-type star ,Switzerland,University of Geneva,"Geneva, Switzerland"
+2020,Andrea Ghez,6/16/1965,Female,Physics, for the discovery of a supermassive compact object at the centre of our galaxy,United States of America,University of California,"Berkeley, CA, United States of America"
+2020,Reinhard Genzel,3/24/1952,Male,Physics, for the discovery of a supermassive compact object at the centre of our galaxy,Germany,University of California,"Los Angeles, CA, United States of America"
+2020,Roger Penrose,8/8/1931,Male,Physics, for the discovery that black hole formation is a robust prediction of the general theory of relativity ,United Kingdom,University of Oxford,"Oxford, United Kingdom"
+2021,Syukuro Manabe,9/29/1931,Male,Physics,"for the physical modelling of Earth's climate, quantifying variability and reliably predicting global warming.",Japan,Princeton University,"Princeton, NJ, USA"
+2021,Klaus Hasselmann,10/25/1931,Male,Physics,"for the physical modelling of Earth's climate, quantifying variability and reliably predicting global warming.",Germany,Max Planck Institute for Meteorology ,"Hamburg, Germany"
+2021,Giorgio Parisi,4/8/1948,Male,Physics,for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales,Italy,Sapienza University of Rome,"Rome, Italy"
